@@ -1,0 +1,38 @@
+.container {
+  box-sizing: border-box;
+  max-width: 1300px;
+  /* Coloca a largura máxima do nosso container */
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-left: auto;
+  /* Os margins esão aqui para deixar alinhado ao centro*/
+  margin-right: auto;
+}
+
+.button-green {
+  padding: 12px 24px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  background: var(--gradient-green);
+  color: var(--neutro-0);
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+.button-green:hover {
+  opacity: 0.7;
+}
+
+.button-white {
+  padding: 12px 24px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  background: var(--neutro-2);
+  color: var(--neutro-8);
+  transition: background 0.5s ease, color 0.5s ease;
+}
+
+.button-white:hover {
+  background-color: var(--neutro-4);
+  color: var(--neutro-9);
+}

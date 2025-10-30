@@ -1,0 +1,168 @@
+.carros {
+  background-color: var(--neutro-0);
+  padding: 50px 90px;
+  text-align: center;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  /* necessário pro fade nas bordas */
+}
+
+/* gradiente nas bordas */
+.carros::before,
+.carros::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 120px;
+  height: 100%;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.carros::before {
+  left: 0;
+  background: linear-gradient(to right, var(--neutro-0) 60%, transparent);
+}
+
+.carros::after {
+  right: 0;
+  background: linear-gradient(to left, var(--neutro-0) 60%, transparent);
+}
+
+.carros-title {
+  display: block;
+}
+
+.carros-title h1 {
+  margin-top: -8px;
+}
+
+.carros-lista {
+  padding: 16px 100px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  justify-content: start;
+  animation: deslizar 60s linear infinite alternate;
+  width: max-content;
+}
+
+.card {
+  max-width: 324px;
+  flex-shrink: 0;
+  background-color: var(--neutro-0);
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+  padding: 24px 32px;
+  transition: transform 0.3s ease, opacity 0.8s ease;
+  opacity: 1;
+}
+
+/* leve zoom no hover */
+.card:hover {
+  transform: scale(1.05);
+}
+
+/* diminui opacidade conforme se aproxima da borda */
+.carros-lista {
+  mask-image: linear-gradient(to right, transparent 0%, black 1%, black 85%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 1%, black 85%, transparent 100%);
+}
+
+/* animação contínua */
+@keyframes deslizar {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* pausa no hover */
+.carros .carros-lista:hover {
+  animation-play-state: paused;
+}
+
+.card>img {
+  max-width: 260px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.card-title {
+  background-color: var(--neutro-1);
+  border-radius: 10px;
+  padding-block: 8px;
+  width: 100%;
+  margin-top: 24px;
+}
+
+.card-description {
+  margin: 12px;
+}
+
+.card-topics {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 36px;
+}
+
+.topic {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 6px;
+}
+
+.topic h5 {
+  margin: 0px;
+  padding: 0px;
+  align-self: center;
+  text-align: center;
+}
+
+.card-buttons {
+  width: 100%;
+  padding-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  opacity: 1;
+}
+
+.card-buttons a {
+  padding: 7px 36px;
+  border-radius: 10px;
+  border: solid 2px;
+  box-sizing: border-box;
+  text-align: center;
+  align-items: center;
+}
+
+.card-buttons a:first-of-type {
+  border-color: var(--neutro-3);
+}
+
+.card-buttons a:nth-of-type(2) {
+  border-color: var(--neutro-8);
+  background-color: var(--neutro-8);
+}
+
+.card-buttons a:first-of-type:hover {
+  opacity: 0.7;
+  transition: opacity 0.5s ease;
+}
+
+.card-buttons a:nth-of-type(2):hover {
+  opacity: 0.7;
+  transition: opacity 0.5s ease;
+}

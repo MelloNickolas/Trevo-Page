@@ -1,0 +1,78 @@
+.servicos {
+  padding: 140px 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.servicos-troca {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.servicos-troca-text {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start; /* garante alinhamento à esquerda */
+}
+
+.servicos-troca-text h3 {
+  max-width: 65%;
+}
+
+.servicos-troca-img {
+  width: 50%;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.servicos-troca-img img{
+  width: 80%;
+  height: auto;
+}
+
+.servicos-linha {
+  width: 80%;
+  height: 4px;
+  border-radius: 100px;
+  background-color: var(--neutro-3);
+  margin-block: 80px;
+}
+
+
+.servicos-financiamento {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.servicos-financiamento-text {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  gap: 10px;
+  text-align: end;
+  align-items: flex-end; /* garante alinhamento à esquerda */
+}
+
+.servicos-financiamento-text h3 {
+  max-width: 80%;
+  text-align: end;
+}
+
+.servicos-financiamento-img {
+  width: 50%;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+
+.servicos-financiamento-img img{
+  width: 70%;
+  height: auto;
+}

@@ -24,6 +24,9 @@
   --neutro-7: #282828;
   --neutro-8: #171717;
   --neutro-9: #000000;
+
+  --gradient-green: linear-gradient(to bottom, #02a437, #098230);
+  --gradient-white: linear-gradient(to bottom, #FFFFFF, #DFDFDF);
 }
 
 .destaque-0 {
@@ -98,4 +101,11 @@
 }
 .neutro-9 {
   color: var(--neutro-9);
+}
+
+.gradiente-green{
+  color: var(--gradient-green);
+}
+.gradiente-white{
+  color: var(--gradient-white);
 }

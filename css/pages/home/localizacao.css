@@ -1,0 +1,32 @@
+.localizacao {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.localizacao-img {
+  padding: 10px 12px;
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.2);
+  background: linear-gradient(to bottom, #FFFFFF, #DFDFDF);
+  border-radius: 10px;
+}
+
+.localizacao-img img {
+  height: 50px;
+  width: auto;
+}
+
+.localizacao-text{
+  margin: 24px 0px;
+}
+.localizacao-text h3{
+  padding: 8px 0px;
+}
+
+.localizacao-button a{
+  padding: 12px 24px;
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "nome": "Prisma LTZ",
+    "ano": "2014",
+    "cilindrada": "1.4",
+    "preco": "R$51.000",
+    "combustivel": "Flex",
+    "descricao": "Um carro popular que satisafaz tudo que você precisa — esse é o PRISMA.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Prisma/Prisma-inicio.webp",
+      "galeria": []
+    }
+  },
+  {
+    "id": 2,
+    "nome": "Amarok",
+    "ano": "2018",
+    "cilindrada": "1.8",
+    "preco": "R$100.000",
+    "combustivel": "Diesel",
+    "descricao": "Potência, conforto e força em cada trajeto — essa é a AMAROK Diesel 2018.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Amarok/Amarok-inicio.webp",
+      "galeria": []
+    }
+  },
+  {
+    "id": 3,
+    "nome": "Uno",
+    "ano": "2009/2010",
+    "cilindrada": "1.0",
+    "preco": "R$24.000",
+    "combustivel": "Flex",
+    "descricao": "Compacto, econômico e pronto pra qualquer caminho — esse é o UNO Mille Way.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Uno/Uno-inicio.webp",
+      "galeria": []
+    }
+  },
+  {
+    "id": 4,
+    "nome": "Celta",
+    "ano": "2010",
+    "cilindrada": "1.0",
+    "preco": "R$26.000",
+    "combustivel": "Flex",
+    "descricao": "Compacto, ágil e pronto pra qualquer rolê — esse é o Celta.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Celta/Celta-inicio.webp",
+      "galeria": []
+    }
+  },
+  {
+    "id": 5,
+    "nome": "CG 160",
+    "ano": "2017",
+    "cilindrada": "162,7 CC",
+    "preco": "R$11.900",
+    "combustivel": "Gasolina",
+    "descricao": "Resistente, econômica e pronta pra qualquer estrada — essa é a CG 160.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/CG/CG-inicio.webp",
+      "galeria": []
+    }
+  }
+]

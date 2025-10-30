@@ -1,1 +1,11 @@
+@import url(./ultilities/componentes.css);
+@import url(./ultilities/cores.css);
+@import url(./ultilities//tipografia.css);
+
+@import url(./global/global.css);
 @import url(./global/header.css);
+@import url(./global/footer.css);
+
+@import url(./pages/home/localizacao.css);
+@import url(./pages/home/carros.css);
+@import url(./pages/home/servicos.css);

@@ -1,0 +1,38 @@
+.header {
+  background-color: var(--neutro-0);
+  padding: 16px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 4px;
+  box-shadow: 0px 2px 10px 2px rgba(0, 0, 0, 0.2);
+  width: 90%;
+  max-width: 1000px;
+  margin: 30px auto;
+}
+
+.header img {
+  width: 100px;
+  height: auto;
+}
+
+.header-menu {
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
+/* Laptops médios e tablets paisagem */
+@media (max-width: 1199px) {}
+
+/* Tablets retrato */
+@media (max-width: 991px) {}
+
+/* Celulares grandes */
+@media (max-width: 767px) {}
+
+/* Celulares pequenos */
+@media (max-width: 480px) {}
