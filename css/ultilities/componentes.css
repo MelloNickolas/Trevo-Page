@@ -10,7 +10,7 @@
 }
 
 .button-green {
-  padding: 12px 24px;
+  padding: 11px 22px;
   border-radius: 4px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
   background: var(--gradient-green);
@@ -19,20 +19,66 @@
   transition: opacity 0.5s ease;
 }
 
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  opacity: 1;
+  transition: all 0.5s ease;
+  padding: 7px 8px;
+  /* mesmo padding do .button-green */
+  background: var(--neutro-2);
+  /* fundo neutro igual */
+  border: 2px solid var(--neutro-3);
+  /* opcional, só pra dar equilíbrio */
+  color: #3F3F3F;
+  /* cor padrão dos ícones */
+}
+
+.button svg path {
+  width: 24px;
+  height: 24px;
+  transition: all 0.5s ease;
+}
+
+.button:hover {
+  /* muda a cor do SVG */
+  border-color: var(--destaque-0);
+}
+
+.button:hover svg path {
+  fill: var(--destaque-0);
+}
+
 .button-green:hover {
   opacity: 0.7;
 }
 
 .button-white {
-  padding: 12px 24px;
+  padding: 9px 18px;
   border-radius: 4px;
-  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
-  background: var(--neutro-2);
-  color: var(--neutro-8);
-  transition: background 0.5s ease, color 0.5s ease;
+  background: var(--neutro-0);
+  color: var(--neutro-4);
+  box-sizing: border-box;
+  border: 2px solid var(--neutro-4);
+  transition: all 0.5s ease;
 }
 
 .button-white:hover {
-  background-color: var(--neutro-4);
-  color: var(--neutro-9);
+  color: var(--destaque-02);
+  border-color: var(--destaque-02);
+}
+
+
+@media (max-width: 768px) {
+  .button-green {
+    padding: 8px 16px;
+    font: 400 1rem/0 "League Spartan", sans-serif;
+  }
+
+  .button-white {
+    padding: 6px 12px;
+    font: 400 1rem/0 "League Spartan", sans-serif;
+  }
 }

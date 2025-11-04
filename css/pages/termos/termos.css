@@ -1,0 +1,23 @@
+.termos-content {
+  padding-block: 60px;
+}
+.termos-content h1{
+  margin-bottom: 10px;
+}
+
+.termos-content p:first-of-type {
+  margin-bottom: 50px;
+}
+
+.termos-content h2{
+  margin-top: 20px;
+}
+
+
+.termos-content p:last-of-type {
+  margin-top: 50px;
+}
+
+.termos-content a:hover {
+  color: var(--destaque-3);
+}

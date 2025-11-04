@@ -1,4 +1,4 @@
-const carrosLista = document.getElementById('carros-lista');
+const carrosLista = document.getElementById('lista-carros');
 
 function criarCard(carro) {
   const card = document.createElement('div');
@@ -33,8 +33,6 @@ fetch('../dados/Carros.json')
   .then(response => response.json())
   .then(carros => {
     // Cria os cards
-    carros.forEach(carro => carrosLista.appendChild(criarCard(carro)));
-    // Duplica os mesmos pra criar o looping contínuo
     carros.forEach(carro => carrosLista.appendChild(criarCard(carro)));
   })
   .catch(error => console.error('Erro ao carregar os carros:', error));

@@ -9,3 +9,11 @@
 @import url(./pages/home/localizacao.css);
 @import url(./pages/home/carros.css);
 @import url(./pages/home/servicos.css);
+
+@import url(./pages/carro/carro.css);
+
+@import url("./pages/carros/carros.css");
+
+@import url("./pages/contato/contato.css");
+
+@import url("./pages/termos/termos.css");

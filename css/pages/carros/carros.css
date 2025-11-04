@@ -1,0 +1,10 @@
+.lista-carros {
+  padding-top: 70px;
+  padding-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  text-align: center;
+}

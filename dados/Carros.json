@@ -7,10 +7,21 @@
     "preco": "R$51.000",
     "combustivel": "Flex",
     "descricao": "Um carro popular que satisafaz tudo que você precisa — esse é o PRISMA.",
+    "descricao-detalhada": "O Prisma LTZ é um carro compacto que combina desempenho, conforto e economia. Com motor 1.4 e acabamento interno de qualidade, oferece uma condução suave e eficiente. Versátil e moderno, é a escolha ideal para quem busca praticidade e confiança no dia a dia.",
     "imagens": {
       "foto-inicio": "../assets/imgs/carros/Prisma/Prisma-inicio.webp",
-      "galeria": []
-    }
+      "galeria": [
+        "../assets/imgs/carros/Prisma/Prisma (10).webp",
+        "../assets/imgs/carros/Prisma/Prisma (9).webp",
+        "../assets/imgs/carros/Prisma/Prisma (8).webp",
+        "../assets/imgs/carros/Prisma/Prisma (7).webp",
+        "../assets/imgs/carros/Prisma/Prisma (6).webp",
+        "../assets/imgs/carros/Prisma/Prisma (5).webp",
+        "../assets/imgs/carros/Prisma/Prisma (2).webp",
+        "../assets/imgs/carros/Prisma/Prisma (1).webp"
+      ]
+    },
+    "link": "https://wa.me/5511999999999?text=Quero%20comprar%20o%20Prisma%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 2,
@@ -20,6 +31,7 @@
     "preco": "R$100.000",
     "combustivel": "Diesel",
     "descricao": "Potência, conforto e força em cada trajeto — essa é a AMAROK Diesel 2018.",
+    "descricao-detalhada": "",
     "imagens": {
       "foto-inicio": "../assets/imgs/carros/Amarok/Amarok-inicio.webp",
       "galeria": []
@@ -32,7 +44,8 @@
     "cilindrada": "1.0",
     "preco": "R$24.000",
     "combustivel": "Flex",
-    "descricao": "Compacto, econômico e pronto pra qualquer caminho — esse é o UNO Mille Way.",
+    "descricao": "Compacto, econômico e pronto pra qualquer caminho — esse é o UNO.",
+    "descricao-detalhada": "",
     "imagens": {
       "foto-inicio": "../assets/imgs/carros/Uno/Uno-inicio.webp",
       "galeria": []
@@ -46,6 +59,7 @@
     "preco": "R$26.000",
     "combustivel": "Flex",
     "descricao": "Compacto, ágil e pronto pra qualquer rolê — esse é o Celta.",
+    "descricao-detalhada": "",
     "imagens": {
       "foto-inicio": "../assets/imgs/carros/Celta/Celta-inicio.webp",
       "galeria": []
@@ -59,6 +73,7 @@
     "preco": "R$11.900",
     "combustivel": "Gasolina",
     "descricao": "Resistente, econômica e pronta pra qualquer estrada — essa é a CG 160.",
+    "descricao-detalhada": "",
     "imagens": {
       "foto-inicio": "../assets/imgs/carros/CG/CG-inicio.webp",
       "galeria": []

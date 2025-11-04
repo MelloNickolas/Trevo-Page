@@ -1,6 +1,6 @@
 .localizacao {
   margin-top: 80px;
-  margin-bottom: 80px;
+  margin-bottom: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,6 +27,9 @@
   padding: 8px 0px;
 }
 
-.localizacao-button a{
-  padding: 12px 24px;
+.localizacao-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
 }

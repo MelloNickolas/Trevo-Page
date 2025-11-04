@@ -1,0 +1,74 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trevo Veículos - Macatuba</title>
+  <meta name="description" content="Seu novo carro te espera aqui! A Trevo Veículos é a loja para você." />
+
+  <link rel="icon" href="../assets/imgs/favicon.svg" type="image/svg+xml">
+
+  <link rel="preload" href="../css/style.css" as="style" />
+  <link rel="stylesheet" href="../css/style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@200;300;400;500;600;700;900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <!-- Cabeçalho principal -->
+  <header class="header-bg">
+    <div class="header container">
+      <a href="../pages/index.html" aria-label="Página inicial - Trevo Veículos">
+        <img src="../assets/imgs/logo.svg" alt="Trevo Veículos" />
+      </a>
+
+      <nav aria-label="Menu principal">
+        <ul class="header-menu font-league-16">
+          <li><a href="../pages/carros.html" class="button-green">Carros</a></li>
+          <li><a href="../pages/contato.html" class="button-white">Contato</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="lista-carros container" id="lista-carros"></main>
+
+  <!-- Rodapé -->
+  <footer class="footer-bg">
+    <div class="footer container">
+      <div class="footer-interesse">
+        <h1 class="font-league-48 destaque-7">Ficou <span class="font-league-48-bold destaque-0">INTERESSADO</span>?
+        </h1>
+        <h3 class="font-league-20 neutro-5">Se interessou por algum dos nossos carros, ou deseja trocar o seu, entre em
+          contato com a gente e saiba mais!</h3>
+        <a href="https://wa.me/5514996222492?text=Quero%20negociar!" class="button-green font-league-18 neutro-0"
+          target="_blank">Quero
+          Negociar!</a>
+      </div>
+      <section class="footer-infos">
+        <div class="footer-infos-box">
+          <h2 class="font-league-24-bold neutro-9">Serviços</h2>
+          <ul>
+            <li><a href="../pages/carros.html" class="font-league-16 neutro-5">Nossos Carros</a></li>
+            <li><a href="https://wa.me/5514996222492?text=Quero%20fazer%20um%20financiamento!" target="_blank"
+                class="font-league-16 neutro-5">Financiamento</a></li>
+            <li><a href="https://wa.me/5514996222492?text=Quero%20fazer%20uma%20troca!" target="_blank"
+                class="font-league-16 neutro-5">Quero fazer uma troca</a></li>
+          </ul>
+        </div>
+        <div class="footer-infos-box">
+          <h2 class="font-league-24-bold neutro-9">Sobre</h2>
+          <ul>
+            <li><a
+                href="https://www.google.com/maps/place/R.+Antonio+Alves+Nunes,+12221,+Macatuba+-+SP,+17290-000/@-22.5197951,-48.7228332,17z/data=!4m6!3m5!1s0x94c0b2cb6fd87987:0x69e86cbe42321f06!8m2!3d-22.521225!4d-48.7210174!16s%2Fg%2F11s9whb774?entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D"
+                class="font-league-16 neutro-5" target="_blank">Onde Estamos?</a></li>
+            <li><a href="../pages/contato.html" class="font-league-16 neutro-5">Contato</a></li>
+            <li><a href="../pages/termos.html" class="font-league-16 neutro-5">Termos e Privacidade</a></li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </footer>
+  <script src="../js/lista-carros.js"></script>
+</body>
