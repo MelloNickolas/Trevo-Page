@@ -2,8 +2,8 @@
   box-sizing: border-box;
   max-width: 1300px;
   /* Coloca a largura máxima do nosso container */
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
   margin-left: auto;
   /* Os margins esão aqui para deixar alinhado ao centro*/
   margin-right: auto;
@@ -81,4 +81,26 @@
     padding: 6px 12px;
     font: 400 1rem/0 "League Spartan", sans-serif;
   }
+
+  .button {
+    padding: 5px 6px;
+  }
+}
+
+@media (max-width: 480px) {
+  .button-green {
+    padding: 6px 12px;
+    font: 400 0.75rem/0 "League Spartan", sans-serif;
+  }
+
+  .button-white {
+    padding: 4px 8px;
+    font: 400 0.75rem/0 "League Spartan", sans-serif;
+  }
+
+  .button svg  {
+    width: 16px;
+    height: 16px;
+  }
+  
 }

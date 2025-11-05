@@ -20,10 +20,11 @@
   width: auto;
 }
 
-.localizacao-text{
+.localizacao-text {
   margin: 24px 0px;
 }
-.localizacao-text h3{
+
+.localizacao-text h3 {
   padding: 8px 0px;
 }
 
@@ -32,4 +33,73 @@
   justify-content: center;
   align-items: center;
   gap: 10px;
+}
+
+/* Laptops médios e tablets paisagem */
+@media (max-width: 1024px) {}
+
+@media (max-width: 768px) {
+  .localizacao {
+    margin-top: 40px;
+    margin-bottom: 80px;
+  }
+
+  .localizacao-img img {
+    height: 40px;
+    width: auto;
+  }
+
+  .localizacao-text {
+    margin: 16px 0px;
+  }
+
+  .localizacao-text h1 {
+    font: 600 2rem/1.5 "League Spartan", sans-serif;
+  }
+
+  .localizacao-text h1 span {
+    font: 700 2.5rem/1.5 "League Spartan", sans-serif;
+  }
+
+  .localizacao-text p {
+    font: 200 1rem/1.4 "League Spartan", sans-serif;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .localizacao-img img {
+    height: 30px;
+    width: auto;
+  }
+
+  .localizacao {
+    margin-top: 30px;
+    margin-bottom: 60px;
+  }
+
+  .localizacao-text {
+    margin: 12px 0px;
+  }
+
+  .localizacao-text h1 {
+    font: 600 1.25rem/1.5 "League Spartan", sans-serif;
+  }
+
+  .localizacao-text h1 span {
+    font: 700 2rem/1.5 "League Spartan", sans-serif;
+  }
+
+  .localizacao-text p {
+    font: 200 0.75rem/1.4 "League Spartan", sans-serif;
+  }
+
+  .localizacao-buttons {
+    gap: 4px;
+  }
+
+  .localizacao-buttons a:nth-child(2) {
+    padding: 5px 10px;
+    font: 400 0.875rem/1.4 "League Spartan", sans-serif;
+  }
 }

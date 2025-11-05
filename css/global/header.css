@@ -1,8 +1,8 @@
-.header-bg{
+.header-bg {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: calc(20px + env(safe-area-inset-bottom));
+  padding-top: calc(10px + env(safe-area-inset-bottom));
   padding-inline: 20px;
 }
 
@@ -40,10 +40,12 @@
   .header {
     padding: 14px 28px;
   }
+
   .header img {
     width: 80px;
   }
-  .header-menu{
+
+  .header-menu {
     gap: 12px;
   }
 }
@@ -51,5 +53,8 @@
 @media (max-width: 480px) {
   .header {
     padding: 10px 20px;
+  }
+  .header-menu {
+    gap: 8px;
   }
 }
