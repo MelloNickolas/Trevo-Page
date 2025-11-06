@@ -1,18 +1,23 @@
 .footer-bg {
   background-color: var(--neutro-0);
-  padding: 80px 0px;
-  padding-bottom: calc(20px + env(safe-area-inset-bottom));
+  padding-inline: 60px;
+  padding-top: 80px;
+  padding-bottom: calc(80px + env(safe-area-inset-bottom));
 }
 
 .footer {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+  justify-content: space-between;
 }
 
 .footer-interesse {
   display: block;
-  width: 60%;
+}
+
+.footer-interesse h1 span {
+  font-size: 2.95rem;
 }
 
 .footer-interesse h3 {
@@ -32,7 +37,8 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: end;
-  gap: 40px;
+  gap: 24px;
+
 }
 
 .footer-infos-box {
@@ -54,4 +60,94 @@
 
 .footer-infos-box>ul>li>a:hover {
   color: var(--neutro-8);
+}
+
+
+@media (max-width: 1048px) {
+  .footer-bg {
+    padding-inline: 40px;
+  }
+
+
+  .footer-interesse h1 {
+    font: 400 1.875rem / 1 "League Spartan", sans-serif;
+  }
+
+  .footer-interesse h1 span {
+    font: 700 2rem / 1.05 "League Spartan", sans-serif;
+  }
+
+  .footer-interesse h3 {
+    font: 400 0.875rem / 1.3 "League Spartan", sans-serif;
+    margin-top: 8px;
+    margin-bottom: 24px;
+  }
+
+  .footer-interesse a {
+    padding: 8px 16px;
+    font: 400 0.875rem / 1.35 "League Spartan", sans-serif;
+  }
+
+  .footer-infos {
+    gap: 16px;
+  }
+
+  .footer-infos-box {
+    padding: 14px 18px;
+  }
+
+  .footer-infos-box h2 {
+    font: 700 1.275rem / 1.5 "League Spartan", sans-serif;
+  }
+
+
+  .footer-infos-box>ul {
+    margin-top: 2px;
+
+  }
+
+  .footer-infos-box>ul>li>a {
+    font: 400 0.875rem / 1.2 "League Spartan", sans-serif;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer-bg {
+    padding-top: 60px;
+    padding-inline: 20px;
+    padding-bottom: calc(60px + env(safe-area-inset-bottom));
+  }
+
+  .footer-infos-box h2 {
+    font: 700 1.275rem / 1.5 "League Spartan", sans-serif;
+  }
+
+  .footer-infos-box>ul>li>a {
+    font: 400 0.75rem / 1.1 "League Spartan", sans-serif;
+  }
+}
+
+@media (max-width: 698px) {
+  .footer-infos {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 540px) {
+  .footer {
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .footer-infos {
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-start;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-infos {
+    gap: 10px;
+  }
 }

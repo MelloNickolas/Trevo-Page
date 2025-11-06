@@ -241,7 +241,7 @@
 
   .carros::before,
   .carros::after {
-    width: 60px;
+    width: 40px;
     /* antes era 120px — reduzido pra telas menores */
   }
 
@@ -320,5 +320,89 @@
 
   .btn-mais svg {
     height: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .carros {
+    padding: 24px 0px;
+  }
+  .carros-title h2 {
+    font: 700 1.75rem / 1.4 "League Spartan", sans-serif;
+  }
+
+  .carros-title p {
+    font: 400 0.875rem / 1 "League Spartan", sans-serif;
+  }
+
+  .card {
+    max-width: 160px;
+    padding: 10px 12px;
+  }
+
+  .card>img {
+    max-width: 136px;
+  }
+
+  .card-title {
+    margin-top: 6px;
+    padding-block: 4px;
+    margin-bottom: 2px;
+  }
+
+  .card-title h2 {
+    font: 700 0.875rem / 1 "League Spartan", sans-serif;
+  }
+
+  .card-description {
+    margin: 4px;
+  }
+
+  .card-description h4 {
+    font: 400 0.5rem / 1.2 "League Spartan", sans-serif;
+  }
+
+  .card-topics {
+    padding-top: 2px;
+    gap: 8px;
+  }
+
+  .topic {
+    gap: 2px;
+  }
+
+  .topic h5 {
+    font: 400 0.5rem "League Spartan", sans-serif;
+  }
+
+  .topic img {
+    width: 10px;
+    height: 10px;
+    transform: translateY(0.5px);
+  }
+
+  .card-buttons {
+    padding-top: 8px;
+    gap: 6px;
+  }
+
+  .card-buttons a {
+    font: 400 0.5rem / 1 "League Spartan", sans-serif;
+  }
+
+  .btn-mais {
+    margin: 10px auto 0 auto;
+    padding-right: 4px;
+    padding-left: 7px;
+    padding-block: 5px;
+    max-width: 60px;
+  }
+
+  .btn-mais h2 {
+    font: 500 0.7rem / 0.2 "League Spartan", sans-serif;
+  }
+
+  .btn-mais svg {
+    height: 12px;
   }
 }
