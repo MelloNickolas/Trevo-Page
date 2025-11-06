@@ -9,9 +9,9 @@
   padding-top: 70px;
   padding-bottom: 100px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  gap: 60px;
+  gap: 80px;
 }
 
 .galeria-container {
@@ -88,6 +88,7 @@
   max-width: 30ch;
   text-align: center;
 }
+
 .informacoes-topicos {
   display: flex;
   flex-direction: row;
@@ -127,4 +128,135 @@
 .button-comprar:hover {
   border-color: var(--destaque-0);
   color: var(--destaque-0);
+}
+
+@media (max-width: 1140px) {
+  .carro {
+    gap: 40px;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 70px;
+  }
+
+  .galeria-container {
+    max-width: 420px;
+  }
+
+  .imagem-destaque {
+    width: 420px;
+    height: 500px;
+  }
+
+  .miniaturas {
+    gap: 8px;
+  }
+
+  .miniaturas img {
+    width: 70px;
+    height: 55px;
+  }
+
+  .informacoes-container {
+    padding: 22px 36px;
+    gap: 18px;
+  }
+
+  .informacoes-container h1 {
+    font: 700 2.5rem / 1.1 "League Spartan", sans-serif;
+    padding-top: 20px;
+    padding-bottom: 11px;
+  }
+
+  .informacoes-container h4 {
+    font: 500 1rem / 1.2 "League Spartan", sans-serif;
+  }
+
+  .informacoes-topicos {
+    gap: 6px;
+  }
+
+  .topico {
+    padding-top: 9px;
+    padding-bottom: 4px;
+  }
+
+  .topico p {
+    font: 500 0.875rem / 1.4 "League Spartan", sans-serif;
+  }
+
+  .topico img {
+    height: 20px;
+    width: 20px;
+  }
+
+  .button-comprar {
+    font: 500 0.875rem / 1.4 "League Spartan", sans-serif;
+    padding: 7px 14px;
+    border: 1px solid;
+  }
+}
+
+@media (max-width: 885px) {
+  .carro {
+    flex-direction: column;
+    gap: 32px;
+  }
+
+  .galeria-container {
+    gap: 12px;
+  }
+}
+
+@media (max-width: 495px) {
+  .carro {
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+
+  .galeria-container {
+    max-width: 340px;
+  }
+
+  .imagem-destaque {
+    width: 100%;
+    height: 360px;
+  }
+
+  .informacoes-container {
+    padding: 18px 28px;
+    box-sizing: border-box;
+    width: 326px;
+    gap: 12px;
+  }
+
+  .informacoes-container h1 {
+    font: 700 1.5rem / 1.1 "League Spartan", sans-serif;
+    padding-top: 10px;
+    padding-bottom: 7px;
+  }
+
+  .informacoes-container h4 {
+    font: 500 0.75rem / 1.2 "League Spartan", sans-serif;
+  }
+
+  .topico {
+    padding-top: 7px;
+    padding-bottom: 3px;
+    border-radius: 6px;
+  }
+
+  .topico img {
+    height: 14px;
+    width: 14px;
+  }
+
+  .topico p {
+    font: 500 0.62rem / 1.4 "League Spartan", sans-serif;
+  }
+
+  .button-comprar {
+    font: 500 0.7rem / 1 "League Spartan", sans-serif;
+    padding: 6px 12px;
+    border-radius: 4px;
+  }
 }

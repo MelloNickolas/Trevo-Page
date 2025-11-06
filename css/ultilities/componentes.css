@@ -96,6 +96,7 @@
   .button-white {
     padding: 4px 8px;
     font: 400 0.75rem/0 "League Spartan", sans-serif;
+    border: solid 1px;
   }
 
   .button svg  {

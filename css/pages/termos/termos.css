@@ -1,7 +1,9 @@
 .termos-content {
   padding-block: 60px;
+  padding-inline: 40px;
 }
-.termos-content h1{
+
+.termos-content h1 {
   margin-bottom: 10px;
 }
 
@@ -9,7 +11,7 @@
   margin-bottom: 50px;
 }
 
-.termos-content h2{
+.termos-content h2 {
   margin-top: 20px;
 }
 
@@ -20,4 +22,61 @@
 
 .termos-content a:hover {
   color: var(--destaque-3);
+}
+
+@media (max-width: 823px) {
+  .termos-content {
+    padding-block: 40px;
+    padding-inline: 40px;
+  }
+
+  .termos-content h1 {
+    font: 700 2rem / 1.1 "League Spartan", sans-serif;
+  }
+
+  .termos-content h2 {
+    font: 700 1.75rem / 1.1 "League Spartan", sans-serif;
+    margin-bottom: 4px;
+  }
+
+  .termos-content p {
+    font: 400 0.875rem / 1.35 "League Spartan", sans-serif;
+  }
+
+  .termos-content ul li {
+    font: 400 0.875rem / 1.35 "League Spartan", sans-serif;
+  }
+
+  .termos-content p:first-of-type {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 650px) {
+  .termos-content {
+    padding-top: 0px;
+    padding-bottom: 30px;
+    padding-inline: 40px;
+  }
+
+  .termos-content h1 {
+    font: 700 1.7rem / 1.1 "League Spartan", sans-serif;
+  }
+
+  .termos-content h2 {
+    font: 700 1.25rem / 1.1 "League Spartan", sans-serif;
+    margin-bottom: 4px;
+  }
+
+  .termos-content p {
+    font: 400 0.75rem / 1.35 "League Spartan", sans-serif;
+  }
+
+  .termos-content ul li {
+    font: 400 0.75rem / 1.35 "League Spartan", sans-serif;
+  }
+
+  .termos-content p:last-of-type {
+    margin-top: 30px;
+}
 }

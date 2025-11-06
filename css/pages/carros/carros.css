@@ -8,3 +8,77 @@
   gap: 20px;
   text-align: center;
 }
+
+@media (max-width: 768px) {
+  .lista-carros {
+    padding-top: 50px;
+    padding-bottom: 75px;
+    gap: 12px;
+  }
+}
+
+@media (max-width: 562px) {
+  .lista-carros {
+    padding-top: 0px;
+    padding-bottom: 45px;
+    gap: 8px;
+  }
+
+  .lista-carros {
+    .card {
+    max-width: 160px;
+    padding: 10px 12px;
+  }
+
+  .card>img {
+    max-width: 136px;
+  }
+
+  .card-title {
+    margin-top: 6px;
+    padding-block: 4px;
+    margin-bottom: 2px;
+  }
+
+  .card-title h2 {
+    font: 700 0.875rem / 1 "League Spartan", sans-serif;
+  }
+
+  .card-description {
+    margin: 4px;
+  }
+
+  .card-description h4 {
+    font: 400 0.5rem / 1.2 "League Spartan", sans-serif;
+  }
+
+  .card-topics {
+    padding-top: 2px;
+    gap: 8px;
+  }
+
+  .topic {
+    gap: 2px;
+  }
+
+  .topic h5 {
+    font: 400 0.5rem "League Spartan", sans-serif;
+  }
+
+  .topic img {
+    width: 10px;
+    height: 10px;
+    transform: translateY(0.5px);
+  }
+
+  .card-buttons {
+    padding-top: 8px;
+    gap: 6px;
+  }
+
+  .card-buttons a {
+    font: 400 0.5rem / 1 "League Spartan", sans-serif;
+    border: solid 1px;
+  }
+  }
+}

@@ -235,8 +235,9 @@
   }
 
   .carros-lista {
-    padding: 10px 90px;
+    padding: 15px 90px;
     gap: 20px;
+    animation: deslizar 25s linear infinite alternate;
   }
 
   .carros::before,
@@ -327,6 +328,7 @@
   .carros {
     padding: 24px 0px;
   }
+
   .carros-title h2 {
     font: 700 1.75rem / 1.4 "League Spartan", sans-serif;
   }
@@ -388,6 +390,7 @@
 
   .card-buttons a {
     font: 400 0.5rem / 1 "League Spartan", sans-serif;
+    border: solid 1px;
   }
 
   .btn-mais {
