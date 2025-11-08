@@ -39,6 +39,7 @@ a {
 }
 
 img {
+  aspect-ratio: 16/9;
   max-width: 100%;
   display: block;
 }

@@ -12,7 +12,7 @@ fetch('../dados/Carros.json')
       container.innerHTML = `
         <div class="galeria-container">
           <div class="imagem-destaque">
-            <img id="imagemPrincipal" src="" alt="${carro.nome}">
+            <img id="imagemPrincipal" src="" alt="${carro.nome}" width="570px" height="650px">
           </div>
           <div class="miniaturas" id="miniaturasContainer"></div>
         </div>
@@ -21,19 +21,19 @@ fetch('../dados/Carros.json')
           <h4 class="font-league-18-medium neutro-6">${carro.descricao}</h4>
           <div class="informacoes-topicos">
             <div class="topico">
-              <img src="../assets/imgs/Calendar.svg" alt="">
+              <img src="../assets/imgs/Calendar.svg" alt="" height="22px" width="22px">
               <p class="font-league-16-medium neutro-6">${carro.ano}</p>
             </div>
             <div class="topico">
-              <img src="../assets/imgs/Value.svg" alt="">
+              <img src="../assets/imgs/Value.svg" alt="" height="22px" width="22px">
               <p class="font-league-16-medium neutro-6">${carro.preco}</p>
             </div>
             <div class="topico">
-              <img src="../assets/Icons/Engine.svg" alt="">
+              <img src="../assets/Icons/Engine.svg" alt="" height="22px" width="22px">
               <p class="font-league-16-medium neutro-6">${carro.cilindrada}</p>
             </div>
             <div class="topico">
-              <img src="../assets/Icons/Combustivel.svg" alt="">
+              <img src="../assets/Icons/Combustivel.svg" alt="" height="22px" width="22px">
               <p class="font-league-16-medium neutro-6">${carro.combustivel}</p>
             </div>
           </div>

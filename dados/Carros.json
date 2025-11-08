@@ -174,9 +174,361 @@
         "../assets/imgs/carros/Saveiro-Preta/9.webp",
         "../assets/imgs/carros/Saveiro-Preta/10.webp",
         "../assets/imgs/carros/Saveiro-Preta/11.webp"
-
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Saveiro%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 9,
+    "nome": "Uno Way",
+    "ano": "2009/2010",
+    "cilindrada": "1.0",
+    "preco": "R$24.000",
+    "combustivel": "Flex",
+    "descricao": "Um compacto robusto que combina economia e espírito aventureiro — esse é o UNO WAY.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros//Uno/Uno-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Uno/1.webp",
+        "../assets/imgs/carros/Uno/2.webp",
+        "../assets/imgs/carros/Uno/3.webp",
+        "../assets/imgs/carros/Uno/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Uno%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 10,
+    "nome": "Parati",
+    "ano": "2006",
+    "cilindrada": "1.6",
+    "preco": "R$30.900",
+    "combustivel": "Flex",
+    "descricao": "Uma clássica rebaixada com tudo legalizado, unindo estilo, conforto e atitude — essa é a PARATI.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Parati/Parati-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Parati/1.webp",
+        "../assets/imgs/carros/Parati/2.webp",
+        "../assets/imgs/carros/Parati/3.webp",
+        "../assets/imgs/carros/Parati/4.webp",
+        "../assets/imgs/carros/Parati/5.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Parati%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 11,
+    "nome": "Montana",
+    "ano": "2013",
+    "cilindrada": "1.4",
+    "preco": "R$40.000",
+    "combustivel": "Flex",
+    "descricao": "Uma picape compacta que entrega praticidade, força e estilo no dia a dia — essa é a MONTANA.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Montana/Montana-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Montana/1.webp",
+        "../assets/imgs/carros/Montana/2.webp",
+        "../assets/imgs/carros/Montana/3.webp",
+        "../assets/imgs/carros/Montana/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Montana%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 12,
+    "nome": "Amarok",
+    "ano": "2018",
+    "cilindrada": "1.8",
+    "preco": "R$100.000",
+    "combustivel": "Diesel",
+    "descricao": "Uma picape robusta que combina luxo, potência e desempenho — essa é a AMAROK.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Amarok/Amarok-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Amarok/1.webp",
+        "../assets/imgs/carros/Amarok/2.webp",
+        "../assets/imgs/carros/Amarok/3.webp",
+        "../assets/imgs/carros/Amarok/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Amarok%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 13,
+    "nome": "Maverick Can-Am X3",
+    "ano": "2020",
+    "cilindrada": "120CV",
+    "preco": "R$120.000",
+    "combustivel": "Gasolina",
+    "descricao": "Uma picape robusta que combina luxo, potência e desempenho — essa é a AMAROK.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Maverick/Maverick-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Maverick/1.webp",
+        "../assets/imgs/carros/Maverick/2.webp",
+        "../assets/imgs/carros/Maverick/3.webp",
+        "../assets/imgs/carros/Maverick/4.webp",
+        "../assets/imgs/carros/Maverick/5.webp",
+        "../assets/imgs/carros/Maverick/6.webp",
+        "../assets/imgs/carros/Maverick/7.webp",
+        "../assets/imgs/carros/Maverick/8.webp",
+        "../assets/imgs/carros/Maverick/9.webp",
+        "../assets/imgs/carros/Maverick/10.webp",
+        "../assets/imgs/carros/Maverick/11.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Maverick%20Can-Am%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 14,
+    "nome": "Troller",
+    "ano": "2013",
+    "cilindrada": "3.2",
+    "preco": "R$115.000",
+    "combustivel": "Diesel",
+    "descricao": "Um 4x4 imponente feito para aventuras e terrenos extremos — esse é o TROLLER.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Troller/Troller-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Troller/1.webp",
+        "../assets/imgs/carros/Troller/2.webp",
+        "../assets/imgs/carros/Troller/3.webp",
+        "../assets/imgs/carros/Troller/4.webp",
+        "../assets/imgs/carros/Troller/5.webp",
+        "../assets/imgs/carros/Troller/6.webp",
+        "../assets/imgs/carros/Troller/7.webp",
+        "../assets/imgs/carros/Troller/8.webp",
+        "../assets/imgs/carros/Troller/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Troller%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 15,
+    "nome": "Strada",
+    "ano": "2016",
+    "cilindrada": "1.8",
+    "preco": "R$69.900",
+    "combustivel": "Flex",
+    "descricao": "Uma picape compacta que une força, economia e versatilidade — essa é a STRADA.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Strada/Strada-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Strada/1.webp",
+        "../assets/imgs/carros/Strada/2.webp",
+        "../assets/imgs/carros/Strada/3.webp",
+        "../assets/imgs/carros/Strada/4.webp",
+        "../assets/imgs/carros/Strada/5.webp",
+        "../assets/imgs/carros/Strada/6.webp",
+        "../assets/imgs/carros/Strada/7.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Strada%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 16,
+    "nome": "Passat",
+    "ano": "2017/2018",
+    "cilindrada": "2.2",
+    "preco": "R$135.000",
+    "combustivel": "Gasolina",
+    "descricao": "Um sedã sofisticado com remap e turbo, unindo potência, estilo e desempenho — esse é o PASSAT.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Passat/Passat-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Passat/1.webp",
+        "../assets/imgs/carros/Passat/2.webp",
+        "../assets/imgs/carros/Passat/3.webp",
+        "../assets/imgs/carros/Passat/4.webp",
+        "../assets/imgs/carros/Passat/5.webp",
+        "../assets/imgs/carros/Passat/6.webp",
+        "../assets/imgs/carros/Passat/7.webp",
+        "../assets/imgs/carros/Passat/8.webp",
+        "../assets/imgs/carros/Passat/9.webp",
+        "../assets/imgs/carros/Passat/10.webp",
+        "../assets/imgs/carros/Passat/11.webp",
+        "../assets/imgs/carros/Passat/12.webp",
+        "../assets/imgs/carros/Passat/13.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Passat%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 17,
+    "nome": "Celta",
+    "ano": "2010",
+    "cilindrada": "1.0",
+    "preco": "R$26.000",
+    "combustivel": "Flex",
+    "descricao": "Um compacto econômico e ágil, perfeito para o dia a dia — esse é o CELTA.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Celta/Celta-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Celta/1.webp",
+        "../assets/imgs/carros/Celta/2.webp",
+        "../assets/imgs/carros/Celta/3.webp",
+        "../assets/imgs/carros/Celta/4.webp",
+        "../assets/imgs/carros/Celta/5.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Celta%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 18,
+    "nome": "Gol",
+    "ano": "2012/2013",
+    "cilindrada": "1.0",
+    "preco": "R$28.900",
+    "combustivel": "Flex",
+    "descricao": "Um clássico brasileiro com ar-condicionado, unindo conforto, economia e resistência — esse é o GOL.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Gol/Gol-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Gol/1.webp",
+        "../assets/imgs/carros/Gol/2.webp",
+        "../assets/imgs/carros/Gol/3.webp",
+        "../assets/imgs/carros/Gol/4.webp",
+        "../assets/imgs/carros/Gol/5.webp",
+        "../assets/imgs/carros/Gol/6.webp",
+        "../assets/imgs/carros/Gol/7.webp",
+        "../assets/imgs/carros/Gol/8.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Gol%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 19,
+    "nome": "Voyage",
+    "ano": "2013",
+    "cilindrada": "1.0",
+    "preco": "R$34.000",
+    "combustivel": "Flex",
+    "descricao": "Um sedã completo com direção e vidros elétricos, oferecendo conforto e praticidade — esse é o VOYAGE.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Voyage/Voyage-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Voyage/1.webp",
+        "../assets/imgs/carros/Voyage/2.webp",
+        "../assets/imgs/carros/Voyage/3.webp",
+        "../assets/imgs/carros/Voyage/4.webp",
+        "../assets/imgs/carros/Voyage/5.webp",
+        "../assets/imgs/carros/Voyage/6.webp",
+        "../assets/imgs/carros/Voyage/7.webp",
+        "../assets/imgs/carros/Voyage/8.webp",
+        "../assets/imgs/carros/Voyage/9.webp",
+        "../assets/imgs/carros/Voyage/10.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Voyage%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 20,
+    "nome": "Ford Focus",
+    "ano": "2011/2012",
+    "cilindrada": "2.0",
+    "preco": "R$42.900",
+    "combustivel": "Flex",
+    "descricao": "Um sedã automático que entrega desempenho, conforto e tecnologia — esse é o FOCUS.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Ford-Focus/Focus-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Ford-Focus/1.webp",
+        "../assets/imgs/carros/Ford-Focus/2.webp",
+        "../assets/imgs/carros/Ford-Focus/3.webp",
+        "../assets/imgs/carros/Ford-Focus/4.webp",
+        "../assets/imgs/carros/Ford-Focus/5.webp",
+        "../assets/imgs/carros/Ford-Focus/6.webp",
+        "../assets/imgs/carros/Ford-Focus/7.webp",
+        "../assets/imgs/carros/Ford-Focus/8.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Focus%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 21,
+    "nome": "XRE",
+    "ano": "2014",
+    "cilindrada": "300cc",
+    "preco": "R$17.900",
+    "combustivel": "Gasolina",
+    "descricao": "Uma moto imponente que une força, conforto e desempenho nas estradas — essa é a XRE.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/XRE/XRE-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/XRE/1.webp",
+        "../assets/imgs/carros/XRE/2.webp",
+        "../assets/imgs/carros/XRE/3.webp",
+        "../assets/imgs/carros/XRE/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20XRE%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 22,
+    "nome": "Lander",
+    "ano": "2009",
+    "cilindrada": "250cc",
+    "preco": "R$6.900",
+    "combustivel": "Gasolina",
+    "descricao": "Uma moto versátil e resistente, pronta para encarar qualquer terreno — essa é a LANDER.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Lander/Lander-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Lander/1.webp",
+        "../assets/imgs/carros/Lander/2.webp",
+        "../assets/imgs/carros/Lander/3.webp",
+        "../assets/imgs/carros/Lander/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Lander%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 24,
+    "nome": "UP",
+    "ano": "2016/2017",
+    "cilindrada": "1.0",
+    "preco": "R$42.900",
+    "combustivel": "Flex",
+    "descricao": "Um compacto moderno que combina economia, agilidade e estilo — esse é o UP.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Up/UP-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Up/1.webp",
+        "../assets/imgs/carros/Up/2.webp",
+        "../assets/imgs/carros/Up/3.webp",
+        "../assets/imgs/carros/Up/4.webp",
+        "../assets/imgs/carros/Up/5.webp",
+        "../assets/imgs/carros/Up/6.webp",
+        "../assets/imgs/carros/Up/7.webp",
+        "../assets/imgs/carros/Up/8.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20UP%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 25,
+    "nome": "S10",
+    "ano": "1996",
+    "cilindrada": "2.2",
+    "preco": "R$30.000",
+    "combustivel": "Gasolina",
+    "descricao": "Um compacto moderno que combina economia, agilidade e estilo — esse é o UP.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/S10/S10-Inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/S10/1.webp",
+        "../assets/imgs/carros/S10/2.webp",
+        "../assets/imgs/carros/S10/3.webp",
+        "../assets/imgs/carros/S10/4.webp",
+        "../assets/imgs/carros/S10/5.webp",
+        "../assets/imgs/carros/S10/6.webp",
+        "../assets/imgs/carros/S10/7.webp",
+        "../assets/imgs/carros/S10/8.webp",
+        "../assets/imgs/carros/S10/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20S10%2C%20como%20podemos%20negociar%3F"
   }
 ]

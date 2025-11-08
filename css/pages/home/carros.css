@@ -104,7 +104,8 @@
 .card-title {
   background-color: var(--neutro-1);
   border-radius: 10px;
-  padding-block: 8px;
+  padding-top: 9px;
+  padding-bottom: 6px;
   width: 100%;
   margin-top: 24px;
 }
@@ -352,6 +353,8 @@
     justify-content: start;
   }
 
+
+
   .carros-lista::-webkit-scrollbar {
     display: none;
     /* remove a barrinha no mobile */
@@ -365,7 +368,7 @@
   }
 
   .card>img {
-    max-width: 160px;
+    max-width: 176px;
   }
 
   .card-title {
@@ -375,11 +378,11 @@
   }
 
   .card-title h2 {
-    font: 700 0.875rem / 1 "League Spartan", sans-serif;
+    font: 700 0.8rem / 1 "League Spartan", sans-serif;
   }
 
   .card-description {
-    margin: 4px;
+    margin: 6px;
   }
 
   .card-description h4 {
