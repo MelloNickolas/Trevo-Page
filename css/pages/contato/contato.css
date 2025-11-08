@@ -117,8 +117,8 @@
 
 @media (max-width: 575px) {
   .contato {
-    padding-top: 0px;
-    padding-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 100px;
     gap: 20px;
   }
 

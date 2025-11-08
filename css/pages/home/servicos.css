@@ -200,7 +200,7 @@
 
 @media (max-width: 480px) {
   .servicos {
-    padding: 40px 20px;
+    padding: 80px 20px;
   }
 
   .servicos-troca {
@@ -238,7 +238,7 @@
   }
 
   .servicos-linha {
-    margin-block: 30px;
+    margin-block: 50px;
     height: 2px;
   }
 

@@ -243,6 +243,7 @@
     padding-top: 7px;
     padding-bottom: 3px;
     border-radius: 6px;
+    gap: 4px;
   }
 
   .topico img {

@@ -6,8 +6,10 @@
 
   <link rel="icon" href="../assets/imgs/favicon.svg" type="image/svg+xml">
 
-  <link rel="preload" href="../css/style.css" as="style" />
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel="preload" href="../css/style.css" as="style" onload="this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="../css/style.css">
+  </noscript>
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

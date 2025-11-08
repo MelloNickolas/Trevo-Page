@@ -327,6 +327,8 @@
 @media (max-width: 480px) {
   .carros {
     padding: 24px 0px;
+    overflow: hidden;
+    /* mantém o container sem crescer */
   }
 
   .carros-title h2 {
@@ -337,13 +339,33 @@
     font: 400 0.875rem / 1 "League Spartan", sans-serif;
   }
 
+  /* remove a animação e ativa o slide manual */
+  .carros-lista {
+    animation: none;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    display: flex;
+    gap: 20px;
+    padding: 20px 20px;
+    width: 100%;
+    justify-content: start;
+  }
+
+  .carros-lista::-webkit-scrollbar {
+    display: none;
+    /* remove a barrinha no mobile */
+  }
+
   .card {
-    max-width: 160px;
+    max-width: 200px;
+    flex: 0 0 auto;
+    scroll-snap-align: center;
     padding: 10px 12px;
   }
 
   .card>img {
-    max-width: 136px;
+    max-width: 160px;
   }
 
   .card-title {
@@ -380,7 +402,6 @@
   .topic img {
     width: 10px;
     height: 10px;
-    transform: translateY(0.5px);
   }
 
   .card-buttons {
@@ -395,9 +416,9 @@
 
   .btn-mais {
     margin: 10px auto 0 auto;
-    padding-right: 4px;
-    padding-left: 7px;
-    padding-block: 5px;
+    padding-right: 6px;
+    padding-left: 10px;
+    padding-block: 7px;
     max-width: 60px;
   }
 
