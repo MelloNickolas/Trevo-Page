@@ -7,11 +7,13 @@
   <title>Trevo Veículos - Macatuba</title>
   <meta name="description" content="Seu novo carro te espera aqui! A Trevo Veículos é a loja para você." />
 
-  <link rel="icon" href="../assets/imgs/favicon.svg" type="image/svg+xml">
+  <!-- ✅ CORRIGIDO -->
+  <link rel="icon" href="./assets/imgs/favicon.svg" type="image/svg+xml">
 
-  <link rel="preload" href="../css/style.min.css" as="style" onload="this.rel='stylesheet'">
+  <!-- ✅ CORRIGIDO -->
+  <link rel="preload" href="./css/style.min.css" as="style" onload="this.rel='stylesheet'">
   <noscript>
-    <link rel="stylesheet" href="../css/style.min.css">
+    <link rel="stylesheet" href="./css/style.min.css">
   </noscript>
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,14 +26,17 @@
   <!-- Cabeçalho principal -->
   <header class="header-bg">
     <div class="header container">
-      <a href="../pages/index.html" aria-label="Página inicial - Trevo Veículos">
-        <img src="../assets/imgs/logo.svg" alt="Trevo Veículos" />
+      <!-- ✅ CORRIGIDO (tinha .index.html errado) -->
+      <a href="./index.html" aria-label="Página inicial - Trevo Veículos">
+        <!-- ✅ CORRIGIDO -->
+        <img src="./assets/imgs/logo.svg" alt="Trevo Veículos" />
       </a>
 
       <nav aria-label="Menu principal">
         <ul class="header-menu font-league-16">
-          <li><a href="../pages/carros.html" class="button-green">Carros</a></li>
-          <li><a href="../pages/contato.html" class="button-white">Contato</a></li>
+          <!-- ✅ CORRIGIDO -->
+          <li><a href="./pages/carros.html" class="button-green">Carros</a></li>
+          <li><a href="./pages/contato.html" class="button-white">Contato</a></li>
         </ul>
       </nav>
     </div>
@@ -41,7 +46,8 @@
     <!-- Seção principal de destaque -->
     <section class="localizacao container" aria-labelledby="titulo-principal">
       <div class="localizacao-img">
-        <img src="../assets/imgs/favicon.svg" alt="Logo" aria-hidden="true" width="100" height="auto">
+        <!-- ✅ CORRIGIDO -->
+        <img src="./assets/imgs/favicon.svg" alt="Logo" aria-hidden="true" width="100" height="auto">
       </div>
       <div class="localizacao-text">
         <h1 id="titulo-principal" class="font-league-48 destaque-7">
@@ -52,7 +58,8 @@
         </p>
       </div>
       <div class="localizacao-buttons">
-        <a href="https://www.instagram.com/trevoveiculos00/" class="button" id="social" target="_blank" aria-label="Instagram da Trevo Veículos">
+        <a href="https://www.instagram.com/trevoveiculos00/" class="button" id="social" target="_blank"
+          aria-label="Instagram da Trevo Veículos">
           <svg width="24" height="24" viewBox="0 0 90 90" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path
               d="M29.9941 9C18.4171 9 9 18.4259 9 30.0059V60.0059C9 71.5829 18.4259 81 30.0059 81H60.0059C71.5829 81 81 71.5741 81 59.9941V29.9941C81 18.4171 71.5741 9 59.9941 9H29.9941ZM66 21C67.656 21 69 22.344 69 24C69 25.656 67.656 27 66 27C64.344 27 63 25.656 63 24C63 22.344 64.344 21 66 21ZM45 27C54.927 27 63 35.073 63 45C63 54.927 54.927 63 45 63C35.073 63 27 54.927 27 45C27 35.073 35.073 27 45 27ZM45 33C41.8174 33 38.7652 34.2643 36.5147 36.5147C34.2643 38.7652 33 41.8174 33 45C33 48.1826 34.2643 51.2348 36.5147 53.4853C38.7652 55.7357 41.8174 57 45 57C48.1826 57 51.2348 55.7357 53.4853 53.4853C55.7357 51.2348 57 48.1826 57 45C57 41.8174 55.7357 38.7652 53.4853 36.5147C51.2348 34.2643 48.1826 33 45 33Z"
@@ -88,7 +95,8 @@
           <!-- Cards carregados dinamicamente -->
         </div>
 
-        <a href="../pages/carros.html" class="btn-mais">
+        <!-- ✅ CORRIGIDO -->
+        <a href="./pages/carros.html" class="btn-mais">
           <h2 class="font-league-20-medium neutro-0">Ver Mais</h2>
           <svg class="icon" viewBox="0 0 96 96" xmlns="http://www.w3.org/2000/svg">
             <path d="M34.36 66.36L52.68 48L34.36 29.64L40 24L64 48L40 72L34.36 66.36Z" fill="currentColor" />
@@ -110,7 +118,9 @@
           </p>
         </div>
         <div class="servicos-troca-img">
-          <img src="../assets/imgs/ilustracoes/Troca.webp" alt="Carros em processo de troca" width="472px" height="auto" loading="lazy">
+          <!-- ✅ CORRIGIDO -->
+          <img src="./assets/imgs/ilustracoes/Troca.webp" alt="Carros em processo de troca" width="472px" height="auto"
+            loading="lazy">
         </div>
       </article>
 
@@ -118,7 +128,9 @@
 
       <article class="servicos-financiamento">
         <div class="servicos-financiamento-img">
-          <img src="../assets/imgs/ilustracoes/Financiamos.webp" alt="Carros representando financiamento" width="420px" height="auto" loading="lazy">
+          <!-- ✅ CORRIGIDO -->
+          <img src="./assets/imgs/ilustracoes/Financiamos.webp" alt="Carros representando financiamento" width="420px"
+            height="auto" loading="lazy">
         </div>
         <div class="servicos-financiamento-text">
           <h2 class="destaque-7 font-league-48">
@@ -149,7 +161,8 @@
         <div class="footer-infos-box">
           <h2 class="font-league-24-bold neutro-9">Serviços</h2>
           <ul>
-            <li><a href="../pages/carros.html" class="font-league-16 neutro-5">Nossos Carros</a></li>
+            <!-- ✅ CORRIGIDO -->
+            <li><a href="./pages/carros.html" class="font-league-16 neutro-5">Nossos Carros</a></li>
             <li><a href="https://wa.me/5514996222492?text=Quero%20fazer%20um%20financiamento!" target="_blank"
                 class="font-league-16 neutro-5">Financiamento</a></li>
             <li><a href="https://wa.me/5514996222492?text=Quero%20fazer%20uma%20troca!" target="_blank"
@@ -159,11 +172,12 @@
         <div class="footer-infos-box">
           <h2 class="font-league-24-bold neutro-9">Sobre</h2>
           <ul>
-            <li><a
-                href="https://www.google.com/maps/place/R.+Antonio+Alves+Nunes,+12221,+Macatuba+-+SP,+17290-000/@-22.5197951,-48.7228332,17z/data=!4m6!3m5!1s0x94c0b2cb6fd87987:0x69e86cbe42321f06!8m2!3d-22.521225!4d-48.7210174!16s%2Fg%2F11s9whb774?entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D"
-                class="font-league-16 neutro-5" target="_blank">Onde Estamos?</a></li>
-            <li><a href="../pages/contato.html" class="font-league-16 neutro-5">Contato</a></li>
-            <li><a href="../pages/termos.html" class="font-league-16 neutro-5">Termos e Privacidade</a></li>
+            <li>
+              <a href="https://www.google.com/maps/place/R.+Antonio+Alves+Nunes,+12221,+Macatuba+-+SP,+17290-000/@-22.5197951,-48.7228332,17z/data=!4m6!3m5!1s0x94c0b2cb6fd87987:0x69e86cbe42321f06!8m2!3d-22.521225!4d-48.7210174!16s%2Fg%2F11s9whb774?entry=ttu&g_ep=EgoyMDI1MTAyOS4xIKXMDSoASAFQAw%3D%3D"
+              class="font-league-16 neutro-5" target="_blank">Onde Estamos?</a></li>
+            <!-- ✅ CORRIGIDO -->
+            <li><a href="./pages/contato.html" class="font-league-16 neutro-5">Contato</a></li>
+            <li><a href="./pages/termos.html" class="font-league-16 neutro-5">Termos e Privacidade</a></li>
           </ul>
         </div>
       </section>
@@ -171,7 +185,8 @@
   </footer>
 
   <div class="footer-safe-area"></div>
-  <script src="../js/carros-inicio.js" defer></script>
+  <!-- ✅ CORRIGIDO -->
+  <script src="./js/carros-inicio.js" defer></script>
 </body>
 
 </html>
