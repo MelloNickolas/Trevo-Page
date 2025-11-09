@@ -25,7 +25,7 @@ function criarCard(carro) {
       </div>
     </div>
     <div class="card-buttons">
-      <a href="carro.html?id=${carro.id}" class="font-league-12 neutro-6">Ver Mais</a>
+      <a href="/pages/carro.html?id=${carro.id}" class="font-league-12 neutro-6">Ver Mais</a>
       <a href="${carro.link}" class="font-league-12 neutro-0" target="_blank">Comprar</a>
     </div>
   `;
