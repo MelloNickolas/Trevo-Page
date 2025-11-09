@@ -12,7 +12,7 @@ fetch('../dados/Carros.json')
       container.innerHTML = `
         <div class="galeria-container">
           <div class="imagem-destaque">
-            <img id="imagemPrincipal" src="" alt="${carro.nome}" width="570px" height="650px">
+            <img id="imagemPrincipal" src="" alt="${carro.nome}" width="570px" height="650px" loading="lazy">
           </div>
           <div class="miniaturas" id="miniaturasContainer"></div>
         </div>

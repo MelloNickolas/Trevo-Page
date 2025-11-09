@@ -10,6 +10,7 @@
 
 .contato-img img {
   max-width: 400px;
+  aspect-ratio: 4 / 5;
 }
 
 .contato-text {
@@ -153,7 +154,7 @@
     width: 28px;
   }
 
-  .btn path{
+  .btn path {
     fill: var(--destaque-0);
   }
 }

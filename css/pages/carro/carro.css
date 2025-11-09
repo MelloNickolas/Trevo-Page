@@ -39,6 +39,7 @@
   object-position: center;
   /* mantém o foco central */
   border-radius: 10px;
+  aspect-ratio: 570 / 650;
 }
 
 .miniaturas {
@@ -56,6 +57,7 @@
   cursor: pointer;
   border: 2px solid transparent;
   transition: 0.3s;
+  aspect-ratio: 100/70;
 }
 
 .miniaturas img:hover,

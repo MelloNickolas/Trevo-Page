@@ -99,6 +99,7 @@
   max-width: 260px;
   height: auto;
   border-radius: 10px;
+  aspect-ratio: 13 / 10;
 }
 
 .card-title {

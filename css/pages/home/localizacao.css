@@ -18,6 +18,8 @@
 .localizacao-img img {
   height: 50px;
   width: auto;
+  aspect-ratio: 46 / 50;
+
 }
 
 .localizacao-text {
