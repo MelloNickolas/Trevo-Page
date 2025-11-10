@@ -48,69 +48,7 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Prisma%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 3,
-    "nome": "Honda City",
-    "ano": "2011",
-    "cilindrada": "1.5",
-    "preco": "R$50.000",
-    "combustivel": "Flex",
-    "descricao": "Um sedã automático que combina elegância, conforto e eficiência — esse é o HONDA CITY.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Honda-City/Honda_City-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Honda-City/1.webp",
-        "../assets/imgs/carros/Honda-City/2.webp",
-        "../assets/imgs/carros/Honda-City/3.webp",
-        "../assets/imgs/carros/Honda-City/4.webp",
-        "../assets/imgs/carros/Honda-City/5.webp",
-        "../assets/imgs/carros/Honda-City/6.webp",
-        "../assets/imgs/carros/Honda-City/7.webp",
-        "../assets/imgs/carros/Honda-City/8.webp",
-        "../assets/imgs/carros/Honda-City/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Honda%20City%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 5,
-    "nome": "L200",
-    "ano": "2012",
-    "cilindrada": "V6",
-    "preco": "R$85.000",
-    "combustivel": "Gasolina",
-    "descricao": "Uma picape 4x4 automática feita para encarar qualquer terreno com força e conforto — essa é a L200.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/L200/L200-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/L200/1.webp",
-        "../assets/imgs/carros/L200/2.webp",
-        "../assets/imgs/carros/L200/3.webp",
-        "../assets/imgs/carros/L200/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20L200%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 6,
-    "nome": "Fiesta Sedan",
-    "ano": "2012",
-    "cilindrada": "1.6",
-    "preco": "R$33.900",
-    "combustivel": "Flex",
-    "descricao": "Um sedã versátil que une economia, conforto e design moderno — esse é o FIESTA SEDAN.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Fiesta/Fiesta-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Fiesta/1.webp",
-        "../assets/imgs/carros/Fiesta/2.webp",
-        "../assets/imgs/carros/Fiesta/3.webp",
-        "../assets/imgs/carros/Fiesta/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Fiesta%20Sedan%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 7,
     "nome": "Ford KA",
     "ano": "2017/2018",
     "cilindrada": "1.0",
@@ -280,30 +218,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Maverick%20Can-Am%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 14,
-    "nome": "Troller",
-    "ano": "2013",
-    "cilindrada": "3.2",
-    "preco": "R$115.000",
-    "combustivel": "Diesel",
-    "descricao": "Um 4x4 imponente feito para aventuras e terrenos extremos — esse é o TROLLER.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Troller/Troller-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Troller/1.webp",
-        "../assets/imgs/carros/Troller/2.webp",
-        "../assets/imgs/carros/Troller/3.webp",
-        "../assets/imgs/carros/Troller/4.webp",
-        "../assets/imgs/carros/Troller/5.webp",
-        "../assets/imgs/carros/Troller/6.webp",
-        "../assets/imgs/carros/Troller/7.webp",
-        "../assets/imgs/carros/Troller/8.webp",
-        "../assets/imgs/carros/Troller/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Troller%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 15,
