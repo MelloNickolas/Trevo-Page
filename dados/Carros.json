@@ -194,32 +194,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Amarok%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 13,
-    "nome": "Maverick Can-Am X3",
-    "ano": "2020",
-    "cilindrada": "120CV",
-    "preco": "R$120.000",
-    "combustivel": "Gasolina",
-    "descricao": "Uma picape robusta que combina luxo, potência e desempenho — essa é a AMAROK.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Maverick/Maverick-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Maverick/1.webp",
-        "../assets/imgs/carros/Maverick/2.webp",
-        "../assets/imgs/carros/Maverick/3.webp",
-        "../assets/imgs/carros/Maverick/4.webp",
-        "../assets/imgs/carros/Maverick/5.webp",
-        "../assets/imgs/carros/Maverick/6.webp",
-        "../assets/imgs/carros/Maverick/7.webp",
-        "../assets/imgs/carros/Maverick/8.webp",
-        "../assets/imgs/carros/Maverick/9.webp",
-        "../assets/imgs/carros/Maverick/10.webp",
-        "../assets/imgs/carros/Maverick/11.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Maverick%20Can-Am%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 15,
     "nome": "Strada",
     "ano": "2016",
