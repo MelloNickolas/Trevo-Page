@@ -24,30 +24,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 2,
-    "nome": "Prisma LTZ",
-    "ano": "2014",
-    "cilindrada": "1.4",
-    "preco": "R$51.000",
-    "combustivel": "Flex",
-    "descricao": "Um sedã completo que entrega desempenho, conforto e tecnologia — esse é o PRISMA LTZ.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Prisma/Prisma-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Prisma/1.webp",
-        "../assets/imgs/carros/Prisma/2.webp",
-        "../assets/imgs/carros/Prisma/3.webp",
-        "../assets/imgs/carros/Prisma/4.webp",
-        "../assets/imgs/carros/Prisma/5.webp",
-        "../assets/imgs/carros/Prisma/6.webp",
-        "../assets/imgs/carros/Prisma/7.webp",
-        "../assets/imgs/carros/Prisma/8.webp",
-        "../assets/imgs/carros/Prisma/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Prisma%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 6,
     "nome": "Ford KA",
     "ano": "2017/2018",
@@ -70,25 +46,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Fiesta%20Sedan%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 7,
-    "nome": "Onix Plus",
-    "ano": "2022/2023",
-    "cilindrada": "1.0",
-    "preco": "R$79.900",
-    "combustivel": "Flex",
-    "descricao": "Um sedã moderno que entrega desempenho, conforto e tecnologia de ponta — esse é o ONIX PLUS.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Onix-Plus/Onix_Plus-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Onix-Plus/1.webp",
-        "../assets/imgs/carros/Onix-Plus/2.webp",
-        "../assets/imgs/carros/Onix-Plus/3.webp",
-        "../assets/imgs/carros/Onix-Plus/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%20Plus%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 8,
@@ -115,45 +72,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Saveiro%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 9,
-    "nome": "Uno Way",
-    "ano": "2009/2010",
-    "cilindrada": "1.0",
-    "preco": "R$24.000",
-    "combustivel": "Flex",
-    "descricao": "Um compacto robusto que combina economia e espírito aventureiro — esse é o UNO WAY.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros//Uno/Uno-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Uno/1.webp",
-        "../assets/imgs/carros/Uno/2.webp",
-        "../assets/imgs/carros/Uno/3.webp",
-        "../assets/imgs/carros/Uno/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Uno%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 10,
-    "nome": "Parati",
-    "ano": "2006",
-    "cilindrada": "1.6",
-    "preco": "R$30.900",
-    "combustivel": "Flex",
-    "descricao": "Uma clássica rebaixada com tudo legalizado, unindo estilo, conforto e atitude — essa é a PARATI.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Parati/Parati-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Parati/1.webp",
-        "../assets/imgs/carros/Parati/2.webp",
-        "../assets/imgs/carros/Parati/3.webp",
-        "../assets/imgs/carros/Parati/4.webp",
-        "../assets/imgs/carros/Parati/5.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Parati%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 11,
@@ -214,34 +132,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Strada%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 16,
-    "nome": "Passat",
-    "ano": "2017/2018",
-    "cilindrada": "2.2",
-    "preco": "R$135.000",
-    "combustivel": "Gasolina",
-    "descricao": "Um sedã sofisticado com remap e turbo, unindo potência, estilo e desempenho — esse é o PASSAT.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Passat/Passat-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Passat/1.webp",
-        "../assets/imgs/carros/Passat/2.webp",
-        "../assets/imgs/carros/Passat/3.webp",
-        "../assets/imgs/carros/Passat/4.webp",
-        "../assets/imgs/carros/Passat/5.webp",
-        "../assets/imgs/carros/Passat/6.webp",
-        "../assets/imgs/carros/Passat/7.webp",
-        "../assets/imgs/carros/Passat/8.webp",
-        "../assets/imgs/carros/Passat/9.webp",
-        "../assets/imgs/carros/Passat/10.webp",
-        "../assets/imgs/carros/Passat/11.webp",
-        "../assets/imgs/carros/Passat/12.webp",
-        "../assets/imgs/carros/Passat/13.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Passat%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 17,
@@ -402,7 +292,7 @@
     "cilindrada": "2.2",
     "preco": "R$30.000",
     "combustivel": "Gasolina",
-    "descricao": "Um compacto moderno que combina economia, agilidade e estilo — esse é o UP.",
+    "descricao": "Uma picape robusta, confortável e pronta para qualquer trabalho — essa é a S10.",
     "imagens": {
       "foto-inicio": "../assets/imgs/carros/S10/S10-Inicio.webp",
       "galeria": [
@@ -418,5 +308,121 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20S10%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 26,
+    "nome": "Brasilia",
+    "ano": "1979",
+    "cilindrada": "1.0",
+    "preco": "R$11.000",
+    "combustivel": "Gasolina",
+    "descricao": "Um clássico urbano com espaço, conforto e personalidade — esse é o Brasília.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Brasilia/Brasilia-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Brasilia/1.webp",
+        "../assets/imgs/carros/Brasilia/2.webp",
+        "../assets/imgs/carros/Brasilia/3.webp",
+        "../assets/imgs/carros/Brasilia/4.webp",
+        "../assets/imgs/carros/Brasilia/5.webp",
+        "../assets/imgs/carros/Brasilia/6.webp",
+        "../assets/imgs/carros/Brasilia/7.webp",
+        "../assets/imgs/carros/Brasilia/8.webp",
+        "../assets/imgs/carros/Brasilia/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Brasilia%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 27,
+    "nome": "Palio",
+    "ano": "2013/2014",
+    "cilindrada": "1.0",
+    "preco": "R$31.000",
+    "combustivel": "Flex",
+    "descricao": "Um compacto confiável, econômico e bem cuidado — esse é o Palio - único dono.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Palio/Palio-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Palio/1.webp",
+        "../assets/imgs/carros/Palio/2.webp",
+        "../assets/imgs/carros/Palio/3.webp",
+        "../assets/imgs/carros/Palio/4.webp",
+        "../assets/imgs/carros/Palio/5.webp",
+        "../assets/imgs/carros/Palio/6.webp",
+        "../assets/imgs/carros/Palio/7.webp",
+        "../assets/imgs/carros/Palio/8.webp",
+        "../assets/imgs/carros/Palio/9.webp",
+        "../assets/imgs/carros/Palio/10.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Palio%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 28,
+    "nome": "CG",
+    "ano": "2007",
+    "cilindrada": "150cc",
+    "preco": "R$7.900",
+    "combustivel": "Gasolina",
+    "descricao": "Uma moto prática, econômica e pronta pro dia a dia — essa é a CG.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/CG/CG-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/CG/1.webp",
+        "../assets/imgs/carros/CG/2.webp",
+        "../assets/imgs/carros/CG/3.webp",
+        "../assets/imgs/carros/CG/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20CG%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 30,
+    "nome": "Onix",
+    "ano": "2013",
+    "cilindrada": "1.4",
+    "preco": "R$51.000",
+    "combustivel": "Flex",
+    "descricao": "Um hatch moderno, econômico e com ótimo desempenho — esse é o Onix 1.4.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Onix-Prata/Onix-Prata-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Onix-Prata/1.webp",
+        "../assets/imgs/carros/Onix-Prata/2.webp",
+        "../assets/imgs/carros/Onix-Prata/3.webp",
+        "../assets/imgs/carros/Onix-Prata/4.webp",
+        "../assets/imgs/carros/Onix-Prata/5.webp",
+        "../assets/imgs/carros/Onix-Prata/6.webp",
+        "../assets/imgs/carros/Onix-Prata/7.webp",
+        "../assets/imgs/carros/Onix-Prata/8.webp",
+        "../assets/imgs/carros/Onix-Prata/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%20Prata%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 31,
+    "nome": "Parati",
+    "ano": "2013",
+    "cilindrada": "1.0",
+    "preco": "R$10.000",
+    "combustivel": "Alcool",
+    "descricao": "Uma perua confiável, espaçosa e cheia de personalidade — essa é a Parati.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Parati/Parati-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Parati/1.webp",
+        "../assets/imgs/carros/Parati/2.webp",
+        "../assets/imgs/carros/Parati/3.webp",
+        "../assets/imgs/carros/Parati/4.webp",
+        "../assets/imgs/carros/Parati/5.webp",
+        "../assets/imgs/carros/Parati/6.webp",
+        "../assets/imgs/carros/Parati/7.webp",
+        "../assets/imgs/carros/Parati/8.webp",
+        "../assets/imgs/carros/Parati/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Parati%2C%20como%20podemos%20negociar%3F"
   }
 ]
