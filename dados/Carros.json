@@ -1,29 +1,5 @@
 [
   {
-    "id": 1,
-    "nome": "Onix",
-    "ano": "2022/2023",
-    "cilindrada": "1.0",
-    "preco": "R$69.900",
-    "combustivel": "Flex",
-    "descricao": "Um carro moderno que une conforto, economia e estilo — esse é o ONIX.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Onix-Hatch/Onix_Hatch-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Onix-Hatch/1.webp",
-        "../assets/imgs/carros/Onix-Hatch/2.webp",
-        "../assets/imgs/carros/Onix-Hatch/3.webp",
-        "../assets/imgs/carros/Onix-Hatch/4.webp",
-        "../assets/imgs/carros/Onix-Hatch/5.webp",
-        "../assets/imgs/carros/Onix-Hatch/6.webp",
-        "../assets/imgs/carros/Onix-Hatch/7.webp",
-        "../assets/imgs/carros/Onix-Hatch/8.webp",
-        "../assets/imgs/carros/Onix-Hatch/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 6,
     "nome": "Ford KA",
     "ano": "2017/2018",
@@ -72,6 +48,25 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Saveiro%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 8,
+    "nome": "Fiesta",
+    "ano": "2012",
+    "cilindrada": "1.6",
+    "preco": "R$33.900",
+    "combustivel": "Flex",
+    "descricao": "m sedã confortável, econômico e com ótimo desempenho — esse é o Fiesta Sedan",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Fiesta/Fiesta-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Fiesta/1.webp",
+        "../assets/imgs/carros/Fiesta/2.webp",
+        "../assets/imgs/carros/Fiesta/3.webp",
+        "../assets/imgs/carros/Fiesta/4.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Fiesta%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 11,
@@ -177,31 +172,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Gol%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 19,
-    "nome": "Voyage",
-    "ano": "2013",
-    "cilindrada": "1.0",
-    "preco": "R$34.000",
-    "combustivel": "Flex",
-    "descricao": "Um sedã completo com direção e vidros elétricos, oferecendo conforto e praticidade — esse é o VOYAGE.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Voyage/Voyage-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Voyage/1.webp",
-        "../assets/imgs/carros/Voyage/2.webp",
-        "../assets/imgs/carros/Voyage/3.webp",
-        "../assets/imgs/carros/Voyage/4.webp",
-        "../assets/imgs/carros/Voyage/5.webp",
-        "../assets/imgs/carros/Voyage/6.webp",
-        "../assets/imgs/carros/Voyage/7.webp",
-        "../assets/imgs/carros/Voyage/8.webp",
-        "../assets/imgs/carros/Voyage/9.webp",
-        "../assets/imgs/carros/Voyage/10.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Voyage%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 20,
     "nome": "Ford Focus",
     "ano": "2011/2012",
@@ -225,25 +195,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Focus%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 21,
-    "nome": "XRE",
-    "ano": "2014",
-    "cilindrada": "300cc",
-    "preco": "R$17.900",
-    "combustivel": "Gasolina",
-    "descricao": "Uma moto imponente que une força, conforto e desempenho nas estradas — essa é a XRE.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/XRE/XRE-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/XRE/1.webp",
-        "../assets/imgs/carros/XRE/2.webp",
-        "../assets/imgs/carros/XRE/3.webp",
-        "../assets/imgs/carros/XRE/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20XRE%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 22,
     "nome": "Lander",
     "ano": "2009",
@@ -261,29 +212,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Lander%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 24,
-    "nome": "UP",
-    "ano": "2016/2017",
-    "cilindrada": "1.0",
-    "preco": "R$42.900",
-    "combustivel": "Flex",
-    "descricao": "Um compacto moderno que combina economia, agilidade e estilo — esse é o UP.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Up/UP-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Up/1.webp",
-        "../assets/imgs/carros/Up/2.webp",
-        "../assets/imgs/carros/Up/3.webp",
-        "../assets/imgs/carros/Up/4.webp",
-        "../assets/imgs/carros/Up/5.webp",
-        "../assets/imgs/carros/Up/6.webp",
-        "../assets/imgs/carros/Up/7.webp",
-        "../assets/imgs/carros/Up/8.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20UP%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 25,
@@ -424,5 +352,126 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Parati%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 32,
+    "nome": "Onix",
+    "ano": "2015/2016",
+    "cilindrada": "1.0",
+    "preco": "R$46.900",
+    "combustivel": "Flex",
+    "descricao": "Um hatch moderno, econômico e com ótimo desempenho — esse é o Onix 1.0.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Onix-Cinza/Onix-Cinza-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Onix-Cinza/1.webp",
+        "../assets/imgs/carros/Onix-Cinza/2.webp",
+        "../assets/imgs/carros/Onix-Cinza/3.webp",
+        "../assets/imgs/carros/Onix-Cinza/4.webp",
+        "../assets/imgs/carros/Onix-Cinza/5.webp",
+        "../assets/imgs/carros/Onix-Cinza/6.webp",
+        "../assets/imgs/carros/Onix-Cinza/7.webp",
+        "../assets/imgs/carros/Onix-Cinza/8.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%20Cinza%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 33,
+    "nome": "Onix Plus",
+    "ano": "2020",
+    "cilindrada": "1.0",
+    "preco": "R$75.000",
+    "combustivel": "Flex",
+    "descricao": "Conforto, economia e desempenho em um sedã moderno — esse é o Onix Plus 1.0.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Onix Plus/Onix_plus-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Onix Plus/1.webp",
+        "../assets/imgs/carros/Onix Plus/2.webp",
+        "../assets/imgs/carros/Onix Plus/3.webp",
+        "../assets/imgs/carros/Onix Plus/4.webp",
+        "../assets/imgs/carros/Onix Plus/5.webp",
+        "../assets/imgs/carros/Onix Plus/6.webp",
+        "../assets/imgs/carros/Onix Plus/7.webp",
+        "../assets/imgs/carros/Onix Plus/8.webp",
+        "../assets/imgs/carros/Onix Plus/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%20Plus%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 34,
+    "nome": "Renagade",
+    "ano": "2016",
+    "cilindrada": "2.0",
+    "preco": "R$80.000",
+    "combustivel": "Diesel",
+    "descricao": "Personalidade, robustez e desempenho em forma de SUV — esse é o Renegade.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Renegade/Renegade-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Renegade/1.webp",
+        "../assets/imgs/carros/Renegade/2.webp",
+        "../assets/imgs/carros/Renegade/3.webp",
+        "../assets/imgs/carros/Renegade/4.webp",
+        "../assets/imgs/carros/Renegade/5.webp",
+        "../assets/imgs/carros/Renegade/6.webp",
+        "../assets/imgs/carros/Renegade/7.webp",
+        "../assets/imgs/carros/Renegade/8.webp",
+        "../assets/imgs/carros/Renegade/9.webp",
+        "../assets/imgs/carros/Renegade/10.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%2Jeep%20Renegade%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 35,
+    "nome": "Troller",
+    "ano": "2013",
+    "cilindrada": "3.2",
+    "preco": "R$115.000",
+    "combustivel": "Diesel",
+    "descricao": "Um 4x4 extremo, feito para trilhas e terrenos difíceis — esse é o Jeep Troller",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Troller/Troller-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Troller/1.webp",
+        "../assets/imgs/carros/Troller/2.webp",
+        "../assets/imgs/carros/Troller/3.webp",
+        "../assets/imgs/carros/Troller/4.webp",
+        "../assets/imgs/carros/Troller/5.webp",
+        "../assets/imgs/carros/Troller/6.webp",
+        "../assets/imgs/carros/Troller/7.webp",
+        "../assets/imgs/carros/Troller/8.webp",
+        "../assets/imgs/carros/Troller/9.webp",
+        "../assets/imgs/carros/Troller/10.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%2Jeep%20Troller%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 36,
+    "nome": "Uno Way",
+    "ano": "2014/2015",
+    "cilindrada": "1.0",
+    "preco": "R$41.000",
+    "combustivel": "Flex",
+    "descricao": "Estilo aventureiro, economia e praticidade em um compacto — esse é o Uno Way.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Uno Way/Uno-inicio.webp",
+      "galeria": [
+        "../assets/imgs/carros/Uno Way/1.webp",
+        "../assets/imgs/carros/Uno Way/2.webp",
+        "../assets/imgs/carros/Uno Way/3.webp",
+        "../assets/imgs/carros/Uno Way/4.webp",
+        "../assets/imgs/carros/Uno Way/5.webp",
+        "../assets/imgs/carros/Uno Way/6.webp",
+        "../assets/imgs/carros/Uno Way/7.webp",
+        "../assets/imgs/carros/Uno Way/8.webp",
+        "../assets/imgs/carros/Uno Way/9.webp"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%2Uno%2C%20como%20podemos%20negociar%3F"
   }
 ]
