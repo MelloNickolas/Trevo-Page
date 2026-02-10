@@ -69,86 +69,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Fiesta%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 11,
-    "nome": "Montana",
-    "ano": "2013",
-    "cilindrada": "1.4",
-    "preco": "R$40.000",
-    "combustivel": "Flex",
-    "descricao": "Uma picape compacta que entrega praticidade, força e estilo no dia a dia — essa é a MONTANA.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Montana/Montana-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Montana/1.webp",
-        "../assets/imgs/carros/Montana/2.webp",
-        "../assets/imgs/carros/Montana/3.webp",
-        "../assets/imgs/carros/Montana/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Montana%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 12,
-    "nome": "Amarok",
-    "ano": "2018",
-    "cilindrada": "1.8",
-    "preco": "R$100.000",
-    "combustivel": "Diesel",
-    "descricao": "Uma picape robusta que combina luxo, potência e desempenho — essa é a AMAROK.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Amarok/Amarok-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Amarok/1.webp",
-        "../assets/imgs/carros/Amarok/2.webp",
-        "../assets/imgs/carros/Amarok/3.webp",
-        "../assets/imgs/carros/Amarok/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Amarok%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 15,
-    "nome": "Strada",
-    "ano": "2016",
-    "cilindrada": "1.8",
-    "preco": "R$69.900",
-    "combustivel": "Flex",
-    "descricao": "Uma picape compacta que une força, economia e versatilidade — essa é a STRADA.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Strada/Strada-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Strada/1.webp",
-        "../assets/imgs/carros/Strada/2.webp",
-        "../assets/imgs/carros/Strada/3.webp",
-        "../assets/imgs/carros/Strada/4.webp",
-        "../assets/imgs/carros/Strada/5.webp",
-        "../assets/imgs/carros/Strada/6.webp",
-        "../assets/imgs/carros/Strada/7.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Strada%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 17,
-    "nome": "Celta",
-    "ano": "2010",
-    "cilindrada": "1.0",
-    "preco": "R$26.000",
-    "combustivel": "Flex",
-    "descricao": "Um compacto econômico e ágil, perfeito para o dia a dia — esse é o CELTA.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Celta/Celta-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Celta/1.webp",
-        "../assets/imgs/carros/Celta/2.webp",
-        "../assets/imgs/carros/Celta/3.webp",
-        "../assets/imgs/carros/Celta/4.webp",
-        "../assets/imgs/carros/Celta/5.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Celta%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 18,
     "nome": "Gol",
     "ano": "2012/2013",
@@ -172,29 +92,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Gol%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 20,
-    "nome": "Ford Focus",
-    "ano": "2011/2012",
-    "cilindrada": "2.0",
-    "preco": "R$42.900",
-    "combustivel": "Flex",
-    "descricao": "Um sedã automático que entrega desempenho, conforto e tecnologia — esse é o FOCUS.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Ford-Focus/Focus-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Ford-Focus/1.webp",
-        "../assets/imgs/carros/Ford-Focus/2.webp",
-        "../assets/imgs/carros/Ford-Focus/3.webp",
-        "../assets/imgs/carros/Ford-Focus/4.webp",
-        "../assets/imgs/carros/Ford-Focus/5.webp",
-        "../assets/imgs/carros/Ford-Focus/6.webp",
-        "../assets/imgs/carros/Ford-Focus/7.webp",
-        "../assets/imgs/carros/Ford-Focus/8.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Focus%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 22,
     "nome": "Lander",
     "ano": "2009",
@@ -212,98 +109,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Lander%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 25,
-    "nome": "S10",
-    "ano": "1996",
-    "cilindrada": "2.2",
-    "preco": "R$30.000",
-    "combustivel": "Gasolina",
-    "descricao": "Uma picape robusta, confortável e pronta para qualquer trabalho — essa é a S10.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/S10/S10-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/S10/1.webp",
-        "../assets/imgs/carros/S10/2.webp",
-        "../assets/imgs/carros/S10/3.webp",
-        "../assets/imgs/carros/S10/4.webp",
-        "../assets/imgs/carros/S10/5.webp",
-        "../assets/imgs/carros/S10/6.webp",
-        "../assets/imgs/carros/S10/7.webp",
-        "../assets/imgs/carros/S10/8.webp",
-        "../assets/imgs/carros/S10/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20S10%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 26,
-    "nome": "Brasilia",
-    "ano": "1979",
-    "cilindrada": "1.0",
-    "preco": "R$11.000",
-    "combustivel": "Gasolina",
-    "descricao": "Um clássico urbano com espaço, conforto e personalidade — esse é o Brasília.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Brasilia/Brasilia-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Brasilia/1.webp",
-        "../assets/imgs/carros/Brasilia/2.webp",
-        "../assets/imgs/carros/Brasilia/3.webp",
-        "../assets/imgs/carros/Brasilia/4.webp",
-        "../assets/imgs/carros/Brasilia/5.webp",
-        "../assets/imgs/carros/Brasilia/6.webp",
-        "../assets/imgs/carros/Brasilia/7.webp",
-        "../assets/imgs/carros/Brasilia/8.webp",
-        "../assets/imgs/carros/Brasilia/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Brasilia%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 27,
-    "nome": "Palio",
-    "ano": "2013/2014",
-    "cilindrada": "1.0",
-    "preco": "R$31.000",
-    "combustivel": "Flex",
-    "descricao": "Um compacto confiável, econômico e bem cuidado — esse é o Palio - único dono.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Palio/Palio-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Palio/1.webp",
-        "../assets/imgs/carros/Palio/2.webp",
-        "../assets/imgs/carros/Palio/3.webp",
-        "../assets/imgs/carros/Palio/4.webp",
-        "../assets/imgs/carros/Palio/5.webp",
-        "../assets/imgs/carros/Palio/6.webp",
-        "../assets/imgs/carros/Palio/7.webp",
-        "../assets/imgs/carros/Palio/8.webp",
-        "../assets/imgs/carros/Palio/9.webp",
-        "../assets/imgs/carros/Palio/10.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Palio%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 28,
-    "nome": "CG",
-    "ano": "2007",
-    "cilindrada": "150cc",
-    "preco": "R$7.900",
-    "combustivel": "Gasolina",
-    "descricao": "Uma moto prática, econômica e pronta pro dia a dia — essa é a CG.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/CG/CG-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/CG/1.webp",
-        "../assets/imgs/carros/CG/2.webp",
-        "../assets/imgs/carros/CG/3.webp",
-        "../assets/imgs/carros/CG/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20CG%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 30,
@@ -330,30 +135,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%20Prata%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 31,
-    "nome": "Parati",
-    "ano": "2013",
-    "cilindrada": "1.0",
-    "preco": "R$10.000",
-    "combustivel": "Alcool",
-    "descricao": "Uma perua confiável, espaçosa e cheia de personalidade — essa é a Parati.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Parati/Parati-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Parati/1.webp",
-        "../assets/imgs/carros/Parati/2.webp",
-        "../assets/imgs/carros/Parati/3.webp",
-        "../assets/imgs/carros/Parati/4.webp",
-        "../assets/imgs/carros/Parati/5.webp",
-        "../assets/imgs/carros/Parati/6.webp",
-        "../assets/imgs/carros/Parati/7.webp",
-        "../assets/imgs/carros/Parati/8.webp",
-        "../assets/imgs/carros/Parati/9.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Parati%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 32,
     "nome": "Onix",
     "ano": "2015/2016",
@@ -378,100 +159,228 @@
   },
   {
     "id": 33,
-    "nome": "Onix Plus",
-    "ano": "2020",
-    "cilindrada": "1.0",
-    "preco": "R$75.000",
-    "combustivel": "Flex",
-    "descricao": "Conforto, economia e desempenho em um sedã moderno — esse é o Onix Plus 1.0.",
+    "nome": "Audi A5",
+    "ano": "2014",
+    "cilindrada": "2.0",
+    "preco": "R$95.000",
+    "combustivel": "Gasolina",
+    "descricao": "Um esportivo elegante, potente e tecnológico — esse é o Audi A5 Turbo.",
     "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Onix Plus/Onix_plus-inicio.webp",
+      "foto-inicio": "../assets/imgs/carros/Audi-A5/Audi-A5-Inicio.webp",
       "galeria": [
-        "../assets/imgs/carros/Onix Plus/1.webp",
-        "../assets/imgs/carros/Onix Plus/2.webp",
-        "../assets/imgs/carros/Onix Plus/3.webp",
-        "../assets/imgs/carros/Onix Plus/4.webp",
-        "../assets/imgs/carros/Onix Plus/5.webp",
-        "../assets/imgs/carros/Onix Plus/6.webp",
-        "../assets/imgs/carros/Onix Plus/7.webp",
-        "../assets/imgs/carros/Onix Plus/8.webp",
-        "../assets/imgs/carros/Onix Plus/9.webp"
+        "../assets/imgs/carros/Audi-A5/1.webp",
+        "../assets/imgs/carros/Audi-A5/2.webp",
+        "../assets/imgs/carros/Audi-A5/3.webp",
+        "../assets/imgs/carros/Audi-A5/4.webp",
+        "../assets/imgs/carros/Audi-A5/5.webp",
+        "../assets/imgs/carros/Audi-A5/6.webp",
+        "../assets/imgs/carros/Audi-A5/7.webp",
+        "../assets/imgs/carros/Audi-A5/8.webp",
+        "../assets/imgs/carros/Audi-A5/9.webp",
+        "../assets/imgs/carros/Audi-A5/10.webp",
+        "../assets/imgs/carros/Audi-A5/11.webp"
       ]
     },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Onix%20Plus%2C%20como%20podemos%20negociar%3F"
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Audi%20A5%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 34,
-    "nome": "Renagade",
-    "ano": "2016",
-    "cilindrada": "2.0",
-    "preco": "R$80.000",
-    "combustivel": "Diesel",
-    "descricao": "Personalidade, robustez e desempenho em forma de SUV — esse é o Renegade.",
+    "nome": "Celta Spirit",
+    "ano": "2006/2007",
+    "cilindrada": "1.0",
+    "preco": "R$20.900",
+    "combustivel": "Flex",
+    "descricao": "Um clássico confiável, econômico e fácil de manter — esse é o Celta Spirit.",
     "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Renegade/Renegade-inicio.webp",
+      "foto-inicio": "../assets/imgs/carros/Celta-Spirit/Celta-Spirit-Inicio.webp",
       "galeria": [
-        "../assets/imgs/carros/Renegade/1.webp",
-        "../assets/imgs/carros/Renegade/2.webp",
-        "../assets/imgs/carros/Renegade/3.webp",
-        "../assets/imgs/carros/Renegade/4.webp",
-        "../assets/imgs/carros/Renegade/5.webp",
-        "../assets/imgs/carros/Renegade/6.webp",
-        "../assets/imgs/carros/Renegade/7.webp",
-        "../assets/imgs/carros/Renegade/8.webp",
-        "../assets/imgs/carros/Renegade/9.webp",
-        "../assets/imgs/carros/Renegade/10.webp"
+        "../assets/imgs/carros/Celta-Spirit/1.webp",
+        "../assets/imgs/carros/Celta-Spirit/2.webp",
+        "../assets/imgs/carros/Celta-Spirit/3.webp",
+        "../assets/imgs/carros/Celta-Spirit/4.webp",
+        "../assets/imgs/carros/Celta-Spirit/5.webp",
+        "../assets/imgs/carros/Celta-Spirit/6.webp",
+        "../assets/imgs/carros/Celta-Spirit/7.webp",
+        "../assets/imgs/carros/Celta-Spirit/8.webp",
+        "../assets/imgs/carros/Celta-Spirit/9.webp",
+        "../assets/imgs/carros/Celta-Spirit/10.webp"
       ]
     },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%2Jeep%20Renegade%2C%20como%20podemos%20negociar%3F"
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Celta%20Spirit%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 35,
-    "nome": "Troller",
-    "ano": "2013",
-    "cilindrada": "3.2",
-    "preco": "R$115.000",
-    "combustivel": "Diesel",
-    "descricao": "Um 4x4 extremo, feito para trilhas e terrenos difíceis — esse é o Jeep Troller",
+    "nome": "Dodge RAM",
+    "ano": "2023",
+    "cilindrada": "5.7",
+    "preco": "R$289.900",
+    "combustivel": "Gasolina",
+    "descricao": "Uma picape robusta, potente e imponente — essa é a Dodge RAM Classic.",
     "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Troller/Troller-inicio.webp",
+      "foto-inicio": "../assets/imgs/carros/Dodge-Ram/Dodge-Ram-Inicio.webp",
       "galeria": [
-        "../assets/imgs/carros/Troller/1.webp",
-        "../assets/imgs/carros/Troller/2.webp",
-        "../assets/imgs/carros/Troller/3.webp",
-        "../assets/imgs/carros/Troller/4.webp",
-        "../assets/imgs/carros/Troller/5.webp",
-        "../assets/imgs/carros/Troller/6.webp",
-        "../assets/imgs/carros/Troller/7.webp",
-        "../assets/imgs/carros/Troller/8.webp",
-        "../assets/imgs/carros/Troller/9.webp",
-        "../assets/imgs/carros/Troller/10.webp"
+        "../assets/imgs/carros/Dodge-Ram/1.webp",
+        "../assets/imgs/carros/Dodge-Ram/2.webp",
+        "../assets/imgs/carros/Dodge-Ram/3.webp",
+        "../assets/imgs/carros/Dodge-Ram/4.webp",
+        "../assets/imgs/carros/Dodge-Ram/5.webp",
+        "../assets/imgs/carros/Dodge-Ram/6.webp",
+        "../assets/imgs/carros/Dodge-Ram/7.webp",
+        "../assets/imgs/carros/Dodge-Ram/8.webp"
       ]
     },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%2Jeep%20Troller%2C%20como%20podemos%20negociar%3F"
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Dodge%20RAM%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 36,
-    "nome": "Uno Way",
-    "ano": "2014/2015",
-    "cilindrada": "1.0",
-    "preco": "R$41.000",
+    "nome": "Ecosport",
+    "ano": "2009",
+    "cilindrada": "1.6",
+    "preco": "R$38.900",
     "combustivel": "Flex",
-    "descricao": "Estilo aventureiro, economia e praticidade em um compacto — esse é o Uno Way.",
+    "descricao": "Um SUV versátil, robusto e pronto pra qualquer caminho — esse é o EcoSport.",
     "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Uno Way/Uno-inicio.webp",
+      "foto-inicio": "../assets/imgs/carros/EcoSport/EcoSport-Inicio.webp",
       "galeria": [
-        "../assets/imgs/carros/Uno Way/1.webp",
-        "../assets/imgs/carros/Uno Way/2.webp",
-        "../assets/imgs/carros/Uno Way/3.webp",
-        "../assets/imgs/carros/Uno Way/4.webp",
-        "../assets/imgs/carros/Uno Way/5.webp",
-        "../assets/imgs/carros/Uno Way/6.webp",
-        "../assets/imgs/carros/Uno Way/7.webp",
-        "../assets/imgs/carros/Uno Way/8.webp",
-        "../assets/imgs/carros/Uno Way/9.webp"
+        "../assets/imgs/carros/EcoSport/1.webp",
+        "../assets/imgs/carros/EcoSport/2.webp",
+        "../assets/imgs/carros/EcoSport/3.webp",
+        "../assets/imgs/carros/EcoSport/4.webp",
+        "../assets/imgs/carros/EcoSport/5.webp",
+        "../assets/imgs/carros/EcoSport/6.webp",
+        "../assets/imgs/carros/EcoSport/7.webp",
+        "../assets/imgs/carros/EcoSport/8.webp"
       ]
     },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%2Uno%2C%20como%20podemos%20negociar%3F"
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20EcoSport%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 37,
+    "nome": "CB 500",
+    "ano": "2018/2019",
+    "cilindrada": "500cc",
+    "preco": "R$31.900",
+    "combustivel": "Flex",
+    "descricao": "Uma moto versátil, potente e pronta pra qualquer desafio — essa é a CB 500.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/CB-500/CB-500-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/CB-500/1.png",
+        "../assets/imgs/carros/CB-500/2.png",
+        "../assets/imgs/carros/CB-500/3.png",
+        "../assets/imgs/carros/CB-500/4.png"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20CB%20500%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 38,
+    "nome": "CG FAN",
+    "ano": "2021/2022",
+    "cilindrada": "160cc",
+    "preco": "R$11.900",
+    "combustivel": "Flex",
+    "descricao": "Uma moto econômica, resistente e feita pro dia a dia — essa é a CG Fan.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/CG-Fan/CG-Fan-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/CG-Fan/1.png",
+        "../assets/imgs/carros/CG-Fan/2.png",
+        "../assets/imgs/carros/CG-Fan/3.png",
+        "../assets/imgs/carros/CG-Fan/4.png"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20CG%20FAN%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 39,
+    "nome": "DODGE RAM",
+    "ano": "2015/2016",
+    "cilindrada": "6.7",
+    "preco": "R$260.000",
+    "combustivel": "Diesel",
+    "descricao": "Uma picape bruta, poderosa e feita pra quem manda na estrada — essa é a Dodge Ram.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Dodge-Ram-Antiga/Dodge-Ram-inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Dodge-Ram-Antiga/1.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/2.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/3.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/4.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/5.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/6.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/7.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/8.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/9.png",
+        "../assets/imgs/carros/Dodge-Ram-Antiga/10.png"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20DODGE%20RAM%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 40,
+    "nome": "Honda CG",
+    "ano": "2010",
+    "cilindrada": "150cc",
+    "preco": "R$10.900",
+    "combustivel": "Flex",
+    "descricao": "Uma moto simples, econômica e feita pra durar — essa é a CG.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Honda-CG/CG-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Honda-CG/1.png",
+        "../assets/imgs/carros/Honda-CG/2.png",
+        "../assets/imgs/carros/Honda-CG/3.png",
+        "../assets/imgs/carros/Honda-CG/4.png"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20HONDA%20CG%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 41,
+    "nome": "Pálio",
+    "ano": "2006/2007",
+    "cilindrada": "1.0",
+    "preco": "R$22.900",
+    "combustivel": "Flex",
+    "descricao": "Um hatch versátil, econômico e pronto pro dia a dia — esse é o Palio.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Palio-Cinza/Palio-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Palio-Cinza/1.png",
+        "../assets/imgs/carros/Palio-Cinza/2.png",
+        "../assets/imgs/carros/Palio-Cinza/3.png",
+        "../assets/imgs/carros/Palio-Cinza/4.png",
+        "../assets/imgs/carros/Palio-Cinza/5.png",
+        "../assets/imgs/carros/Palio-Cinza/6.png",
+        "../assets/imgs/carros/Palio-Cinza/7.png",
+        "../assets/imgs/carros/Palio-Cinza/8.png"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Pálio%20Cinza%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 41,
+    "nome": "Pálio",
+    "ano": "2009/2010",
+    "cilindrada": "1.0",
+    "preco": "R$23.900",
+    "combustivel": "Flex",
+    "descricao": "Confiável, econômico e companheiro pra toda hora — esse é o Palio.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Palio-Prata/Palio-Prata-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Palio-Prata/1.png",
+        "../assets/imgs/carros/Palio-Prata/2.png",
+        "../assets/imgs/carros/Palio-Prata/3.png",
+        "../assets/imgs/carros/Palio-Prata/4.png",
+        "../assets/imgs/carros/Palio-Prata/5.png",
+        "../assets/imgs/carros/Palio-Prata/6.png",
+        "../assets/imgs/carros/Palio-Prata/7.png",
+        "../assets/imgs/carros/Palio-Prata/8.png",
+        "../assets/imgs/carros/Palio-Prata/9.png"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Pálio%20Prata%2C%20como%20podemos%20negociar%3F"
   }
 ]
