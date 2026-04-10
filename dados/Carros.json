@@ -179,31 +179,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20CB%20500%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 39,
-    "nome": "DODGE RAM",
-    "ano": "2015/2016",
-    "cilindrada": "6.7",
-    "preco": "R$260.000",
-    "combustivel": "Diesel",
-    "descricao": "Uma picape bruta, poderosa e feita pra quem manda na estrada — essa é a Dodge Ram.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Dodge-Ram-Antiga/Dodge-Ram-inicio.png",
-      "galeria": [
-        "../assets/imgs/carros/Dodge-Ram-Antiga/1.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/2.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/3.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/4.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/5.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/6.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/7.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/8.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/9.png",
-        "../assets/imgs/carros/Dodge-Ram-Antiga/10.png"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20DODGE%20RAM%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 40,
     "nome": "Honda CG",
     "ano": "2010",
@@ -394,31 +369,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Gol%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 48,
-    "nome": "Golf GTI",
-    "ano": "2019",
-    "cilindrada": "2.0",
-    "preco": "R$205.000",
-    "combustivel": "Gasolina",
-    "descricao": "Um hatch esportivo de respeito, feito pra quem gosta de performance — esse é o  Golf GTI.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Golf/Golf.png",
-      "galeria": [
-        "../assets/imgs/carros/Golf/1.jpeg",
-        "../assets/imgs/carros/Golf/2.jpeg",
-        "../assets/imgs/carros/Golf/3.jpeg",
-        "../assets/imgs/carros/Golf/4.jpeg",
-        "../assets/imgs/carros/Golf/5.jpeg",
-        "../assets/imgs/carros/Golf/6.jpeg",
-        "../assets/imgs/carros/Golf/7.jpeg",
-        "../assets/imgs/carros/Golf/8.jpeg",
-        "../assets/imgs/carros/Golf/9.jpeg",
-        "../assets/imgs/carros/Golf/10.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Golf%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 49,
     "nome": "Parati",
     "ano": "2007",
@@ -494,30 +444,6 @@
   },
   {
     "id": 52,
-    "nome": "Tida",
-    "ano": "2011/2012",
-    "cilindrada": "1.8",
-    "preco": "R$30.000",
-    "combustivel": "Flex",
-    "descricao": "Um sedan espaçoso, confortável e com ótimo custo-benefício — esse é o Nissan Tida Sedan.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Tida/Tida-Inicio.png",
-      "galeria": [
-        "../assets/imgs/carros/Tida/1.jpeg",
-        "../assets/imgs/carros/Tida/2.jpeg",
-        "../assets/imgs/carros/Tida/3.jpeg",
-        "../assets/imgs/carros/Tida/4.jpeg",
-        "../assets/imgs/carros/Tida/5.jpeg",
-        "../assets/imgs/carros/Tida/6.jpeg",
-        "../assets/imgs/carros/Tida/7.jpeg",
-        "../assets/imgs/carros/Tida/8.jpeg",
-        "../assets/imgs/carros/Tida/9.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Tida20Branca%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 52,
     "nome": "Titan",
     "ano": "2012",
     "cilindrada": "150cc",
@@ -535,5 +461,87 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Titan20Branca%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 53,
+    "nome": "Biz",
+    "ano": "2012",
+    "cilindrada": "1525cc",
+    "preco": "R$12.000",
+    "combustivel": "Flex",
+    "descricao": "Compacta, econômica e perfeita pra encarar a rotina sem dor de cabeça — essa é a Honda Biz.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Biz-2012/Biz-2012-inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Biz-2012/1.jpeg",
+        "../assets/imgs/carros/Biz-2012/2.jpeg",
+        "../assets/imgs/carros/Biz-2012/3.jpeg",
+        "../assets/imgs/carros/Biz-2012/4.jpeg",
+        "../assets/imgs/carros/Biz-2012/5.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Biz202012%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 54,
+    "nome": "Biz",
+    "ano": "2015",
+    "cilindrada": "125cc",
+    "preco": "R$13.000",
+    "combustivel": "Flex",
+    "descricao": "Compacta, econômica e perfeita pra encarar a rotina sem dor de cabeça — essa é a Honda Biz.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Biz-2015/Biz-2015-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Biz-2015/1.jpeg",
+        "../assets/imgs/carros/Biz-2015/2.jpeg",
+        "../assets/imgs/carros/Biz-2015/3.jpeg",
+        "../assets/imgs/carros/Biz-2015/4.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Biz202015%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 56,
+    "nome": "Gol",
+    "ano": "2012/2013",
+    "cilindrada": "1.0",
+    "preco": "R$32.900",
+    "combustivel": "Flex",
+    "descricao": "Um ícone brasileiro, econômico e parceiro pra qualquer rotina — esse é o Volkswagen Gol.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Gol-Prata/Gol-Prata-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Gol-Prata/1.jpeg",
+        "../assets/imgs/carros/Gol-Prata/2.jpeg",
+        "../assets/imgs/carros/Gol-Prata/3.jpeg",
+        "../assets/imgs/carros/Gol-Prata/4.jpeg",
+        "../assets/imgs/carros/Gol-Prata/5.jpeg",
+        "../assets/imgs/carros/Gol-Prata/6.jpeg",
+        "../assets/imgs/carros/Gol-Prata/7.jpeg",
+        "../assets/imgs/carros/Gol-Prata/8.jpeg",
+        "../assets/imgs/carros/Gol-Prata/9.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Gol%202012%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 57,
+    "nome": "Hornet",
+    "ano": "2006",
+    "cilindrada": "650cc",
+    "preco": "R$30.000",
+    "combustivel": "Gasolina",
+    "descricao": "Um ícone das ruas, potente e cheio de atitude pra qualquer rolê — essa é a Honda Hornet.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Hornet/Hornet-Inicio.png",
+      "galeria": [
+        "../assets/imgs/carros/Hornet/1.jpeg",
+        "../assets/imgs/carros/Hornet/2.jpeg",
+        "../assets/imgs/carros/Hornet/3.jpeg",
+        "../assets/imgs/carros/Hornet/4.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Hornet%2C%20como%20podemos%20negociar%3F"
   }
 ]
