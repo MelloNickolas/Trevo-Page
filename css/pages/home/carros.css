@@ -96,10 +96,12 @@
 }
 
 .card>img {
-  max-width: 260px;
-  height: auto;
+  width: 100%;
+  height: 220px;
   border-radius: 10px;
-  aspect-ratio: 13 / 10;
+  object-fit: cover;
+  object-position: center;
+  display: block;
 }
 
 .card-title {
@@ -264,7 +266,9 @@
   }
 
   .card>img {
-    max-width: 194px;
+    width: 100%;
+    height: 165px;
+    /* proporcional ao card menor */
   }
 
   .card-title {
@@ -326,6 +330,14 @@
   }
 }
 
+@media (max-width: 560px) {
+  .card>img {
+    width: 100%;
+    height: 110px;
+    /* proporcional ao card 160px */
+  }
+}
+
 @media (max-width: 480px) {
   .carros {
     padding: 24px 0px;
@@ -366,10 +378,6 @@
     padding: 10px 12px;
     flex: 0 0 auto;
     scroll-snap-align: center;
-  }
-
-  .card>img {
-    max-width: 136px;
   }
 
   .card-title {
