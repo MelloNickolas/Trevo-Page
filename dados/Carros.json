@@ -1,90 +1,5 @@
 [
   {
-    "id": 9,
-    "nome": "Fiesta Sedan",
-    "ano": "2012",
-    "cilindrada": "1.6",
-    "preco": "R$33.900",
-    "combustivel": "Flex",
-    "descricao": "m sedã confortável, econômico e com ótimo desempenho — esse é o Fiesta Sedan",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Fiesta/Fiesta-inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Fiesta/1.webp",
-        "../assets/imgs/carros/Fiesta/2.webp",
-        "../assets/imgs/carros/Fiesta/3.webp",
-        "../assets/imgs/carros/Fiesta/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Fiesta%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 22,
-    "nome": "Lander",
-    "ano": "2009",
-    "cilindrada": "250cc",
-    "preco": "R$6.900",
-    "combustivel": "Gasolina",
-    "descricao": "Uma moto versátil e resistente, pronta para encarar qualquer terreno — essa é a LANDER.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Lander/Lander-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Lander/1.webp",
-        "../assets/imgs/carros/Lander/2.webp",
-        "../assets/imgs/carros/Lander/3.webp",
-        "../assets/imgs/carros/Lander/4.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Lander%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 33,
-    "nome": "Audi A5",
-    "ano": "2014",
-    "cilindrada": "2.0",
-    "preco": "R$95.000",
-    "combustivel": "Gasolina",
-    "descricao": "Um esportivo elegante, potente e tecnológico — esse é o Audi A5 Turbo.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Audi-A5/Audi-A5-Inicio.webp",
-      "galeria": [
-        "../assets/imgs/carros/Audi-A5/1.webp",
-        "../assets/imgs/carros/Audi-A5/2.webp",
-        "../assets/imgs/carros/Audi-A5/3.webp",
-        "../assets/imgs/carros/Audi-A5/4.webp",
-        "../assets/imgs/carros/Audi-A5/5.webp",
-        "../assets/imgs/carros/Audi-A5/6.webp",
-        "../assets/imgs/carros/Audi-A5/7.webp",
-        "../assets/imgs/carros/Audi-A5/8.webp",
-        "../assets/imgs/carros/Audi-A5/9.webp",
-        "../assets/imgs/carros/Audi-A5/10.webp",
-        "../assets/imgs/carros/Audi-A5/11.webp"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20o%20Audi%20A5%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 58,
-    "nome": "CBR 1000",
-    "ano": "2008",
-    "cilindrada": "1000cc",
-    "preco": "R$38.900",
-    "combustivel": "Gasolina",
-    "descricao": "Um ícone das ruas, potente e cheio de atitude pra qualquer rolê — essa é a Honda Hornet.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/CBR-1000/CBR-Inicio.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/CBR-1000/1.jpeg",
-        "../assets/imgs/carros/CBR-1000/2.jpeg",
-        "../assets/imgs/carros/CBR-1000/3.jpeg",
-        "../assets/imgs/carros/CBR-1000/4.jpeg",
-        "../assets/imgs/carros/CBR-1000/5.jpeg",
-        "../assets/imgs/carros/CBR-1000/6.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20CBR%201000%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 60,
     "nome": "Discovery",
     "ano": "2018",
@@ -130,29 +45,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Ford%20Focus%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 64,
-    "nome": "Gol",
-    "ano": "2011",
-    "cilindrada": "1.6",
-    "preco": "R$34.900",
-    "combustivel": "Flex",
-    "descricao": "Um clássico das ruas, econômico e confiável para qualquer trajeto — esse é o Volkswagen Gol.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Gol-Cinza/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Gol-Cinza/1.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/2.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/3.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/4.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/5.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/6.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/7.jpeg",
-        "../assets/imgs/carros/Gol-Cinza/8.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Gol%20Cinza%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 65,
@@ -203,30 +95,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Range%20Rover%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 74,
-    "nome": "Sandero",
-    "ano": "2017",
-    "cilindrada": "1.0",
-    "preco": "R$42.000",
-    "combustivel": "Flex",
-    "descricao": "Espaçoso, econômico e pronto para o dia a dia — esse é o Renault Sandero.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Sandero/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Sandero/1.jpeg",
-        "../assets/imgs/carros/Sandero/2.jpeg",
-        "../assets/imgs/carros/Sandero/3.jpeg",
-        "../assets/imgs/carros/Sandero/4.jpeg",
-        "../assets/imgs/carros/Sandero/5.jpeg",
-        "../assets/imgs/carros/Sandero/6.jpeg",
-        "../assets/imgs/carros/Sandero/7.jpeg",
-        "../assets/imgs/carros/Sandero/8.jpeg",
-        "../assets/imgs/carros/Sandero/9.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Renault%20Sandero%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 76,
     "nome": "Voyage",
     "ano": "2012",
@@ -250,29 +118,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Volkswagen%20Voyage%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 77,
-    "nome": "Cerato",
-    "ano": "2016",
-    "cilindrada": "1.6",
-    "preco": "R$70.000",
-    "combustivel": "Flex",
-    "descricao": "Elegante, potente e completo para transformar cada trajeto em uma experiência única — esse é o Kia Cerato.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Cerato/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Cerato/1.jpeg",
-        "../assets/imgs/carros/Cerato/2.jpeg",
-        "../assets/imgs/carros/Cerato/3.jpeg",
-        "../assets/imgs/carros/Cerato/4.jpeg",
-        "../assets/imgs/carros/Cerato/5.jpeg",
-        "../assets/imgs/carros/Cerato/6.jpeg",
-        "../assets/imgs/carros/Cerato/7.jpeg",
-        "../assets/imgs/carros/Cerato/8.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Kia%20Cerato%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 78,
@@ -322,95 +167,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Gol%20Branco%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 80,
-    "nome": "Nivus",
-    "ano": "2021",
-    "cilindrada": "1.0",
-    "preco": "R$105.000",
-    "combustivel": "Flex",
-    "descricao": "Moderno, versátil e pronto para acompanhar você em todos os caminhos — esse é o Volkswagen Nivus.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Nivus/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Nivus/1.jpeg",
-        "../assets/imgs/carros/Nivus/2.jpeg",
-        "../assets/imgs/carros/Nivus/3.jpeg",
-        "../assets/imgs/carros/Nivus/4.jpeg",
-        "../assets/imgs/carros/Nivus/5.jpeg",
-        "../assets/imgs/carros/Nivus/6.jpeg",
-        "../assets/imgs/carros/Nivus/7.jpeg",
-        "../assets/imgs/carros/Nivus/8.jpeg",
-        "../assets/imgs/carros/Nivus/9.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Volkswagen%20Nivus%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 81,
-    "nome": "Peugeot 207",
-    "ano": "2013",
-    "cilindrada": "1.4",
-    "preco": "R$26.000",
-    "combustivel": "Flex",
-    "descricao": "Compacto, econômico e prático para deixar o seu dia a dia ainda mais fácil — esse é o Peugeot 207.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Peugeot-207/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Peugeot-207/1.jpeg",
-        "../assets/imgs/carros/Peugeot-207/2.jpeg",
-        "../assets/imgs/carros/Peugeot-207/3.jpeg",
-        "../assets/imgs/carros/Peugeot-207/4.jpeg",
-        "../assets/imgs/carros/Peugeot-207/5.jpeg",
-        "../assets/imgs/carros/Peugeot-207/6.jpeg",
-        "../assets/imgs/carros/Peugeot-207/7.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Peugeot%20207%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 82,
-    "nome": "Audi Q8",
-    "ano": "2020",
-    "cilindrada": "3.0",
-    "preco": "R$340.000",
-    "combustivel": "Hibrida",
-    "descricao": "Luxuoso, potente e sofisticado para transformar cada trajeto em uma experiência única — esse é o Audi Q8.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Q8/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Q8/1.jpeg",
-        "../assets/imgs/carros/Q8/2.jpeg",
-        "../assets/imgs/carros/Q8/3.jpeg",
-        "../assets/imgs/carros/Q8/4.jpeg",
-        "../assets/imgs/carros/Q8/5.jpeg",
-        "../assets/imgs/carros/Q8/6.jpeg",
-        "../assets/imgs/carros/Q8/7.jpeg",
-        "../assets/imgs/carros/Q8/8.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Audi%20Q8%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 83,
-    "nome": "S10",
-    "ano": "1999",
-    "cilindrada": "2.2",
-    "preco": "R$35.000",
-    "combustivel": "Gasolina",
-    "descricao": "Robusta, potente e pronta para encarar qualquer desafio — essa é a Chevrolet S10.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/S10-Prata/3.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/S10-Prata/1.jpeg",
-        "../assets/imgs/carros/S10-Prata/2.jpeg",
-        "../assets/imgs/carros/S10-Prata/3.jpeg",
-        "../assets/imgs/carros/S10-Prata/4.jpeg",
-        "../assets/imgs/carros/S10-Prata/5.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Chevrolet%20S10%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 84,
     "nome": "S10",
     "ano": "1996",
@@ -434,44 +190,309 @@
   },
   {
     "id": 85,
-    "nome": "Saveiro",
-    "ano": "2006/2007",
-    "cilindrada": "1.6",
-    "preco": "R$41.000",
-    "combustivel": "Flex",
-    "descricao": "Versátil, resistente e pronta para acompanhar você em qualquer trabalho ou aventura — essa é a Volkswagen Saveiro.",
+    "nome": "Biz",
+    "ano": "2014",
+    "cilindrada": "100cc",
+    "preco": "R$9.769",
+    "combustivel": "Gasolina",
+    "descricao": "Econômica, versátil e super popular — essa é a Biz.",
     "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Saveiro/1.jpeg",
+      "foto-inicio": "../assets/imgs/carros/Biz (Preta)/1.jpeg",
       "galeria": [
-        "../assets/imgs/carros/Saveiro/1.jpeg",
-        "../assets/imgs/carros/Saveiro/2.jpeg",
-        "../assets/imgs/carros/Saveiro/3.jpeg",
-        "../assets/imgs/carros/Saveiro/4.jpeg",
-        "../assets/imgs/carros/Saveiro/5.jpeg",
-        "../assets/imgs/carros/Saveiro/6.jpeg"
+        "../assets/imgs/carros/Biz (Preta)/1.jpeg",
+        "../assets/imgs/carros/Biz (Preta)/2.jpeg",
+        "../assets/imgs/carros/Biz (Preta)/3.jpeg",
+        "../assets/imgs/carros/Biz (Preta)/4.jpeg"
       ]
     },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20Saveiro%2C%20como%20podemos%20negociar%3F"
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Biz%20Preta%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 86,
-    "nome": "T-Cross",
-    "ano": "2022",
-    "cilindrada": "1.0",
-    "preco": "R$105.000",
+    "nome": "BMW",
+    "ano": "2017",
+    "cilindrada": "2.0",
+    "preco": "R$115.000",
     "combustivel": "Flex",
-    "descricao": "Moderno, confortável e versátil para acompanhar você em todos os caminhos — esse é o Volkswagen T-Cross.",
+    "descricao": "Elegante, potente e feita para ir além — essa é a BMW.",
     "imagens": {
-      "foto-inicio": "../assets/imgs/carros/T-Cross/1.jpeg",
+      "foto-inicio": "../assets/imgs/carros/BMW/1.jpeg",
       "galeria": [
-        "../assets/imgs/carros/T-Cross/1.jpeg",
-        "../assets/imgs/carros/T-Cross/2.jpeg",
-        "../assets/imgs/carros/T-Cross/3.jpeg",
-        "../assets/imgs/carros/T-Cross/4.jpeg",
-        "../assets/imgs/carros/T-Cross/5.jpeg",
-        "../assets/imgs/carros/T-Cross/6.jpeg"
+        "../assets/imgs/carros/BMW/1.jpeg",
+        "../assets/imgs/carros/BMW/2.jpeg",
+        "../assets/imgs/carros/BMW/3.jpeg",
+        "../assets/imgs/carros/BMW/4.jpeg",
+        "../assets/imgs/carros/BMW/5.jpeg",
+        "../assets/imgs/carros/BMW/6.jpeg",
+        "../assets/imgs/carros/BMW/7.jpeg",
+        "../assets/imgs/carros/BMW/8.jpeg"
       ]
     },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20T-Cross%2C%20como%20podemos%20negociar%3F"
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=BMW%20Branca%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 87,
+    "nome": "Corolla",
+    "ano": "2003",
+    "cilindrada": "1.8",
+    "preco": "R$34.000",
+    "combustivel": "Flex",
+    "descricao": "Confiável, elegante e pronto para qualquer caminho — esse é o Corolla.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Corolla/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Corolla/1.jpeg",
+        "../assets/imgs/carros/Corolla/2.jpeg",
+        "../assets/imgs/carros/Corolla/3.jpeg",
+        "../assets/imgs/carros/Corolla/4.jpeg",
+        "../assets/imgs/carros/Corolla/5.jpeg",
+        "../assets/imgs/carros/Corolla/6.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Corolla%20Preta%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 88,
+    "nome": "Falcon",
+    "ano": "2008",
+    "cilindrada": "400cc",
+    "preco": "R$18.000",
+    "combustivel": "Gasolina",
+    "descricao": "Clássico, potente e cheio de personalidade — esse é o Falcon.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Falcon/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Falcon/1.jpeg",
+        "../assets/imgs/carros/Falcon/2.jpeg",
+        "../assets/imgs/carros/Falcon/3.jpeg",
+        "../assets/imgs/carros/Falcon/4.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Moto%20Falcon%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 89,
+    "nome": "Fiesta",
+    "ano": "2013",
+    "cilindrada": "1.0",
+    "preco": "R$33.000",
+    "combustivel": "Flex",
+    "descricao": "Econômico, ágil e pronto para qualquer caminho — esse é o Fiesta.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Fiesta/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Fiesta/1.jpeg",
+        "../assets/imgs/carros/Fiesta/2.jpeg",
+        "../assets/imgs/carros/Fiesta/3.jpeg",
+        "../assets/imgs/carros/Fiesta/4.jpeg",
+        "../assets/imgs/carros/Fiesta/5.jpeg",
+        "../assets/imgs/carros/Fiesta/6.jpeg",
+        "../assets/imgs/carros/Fiesta/7.jpeg",
+        "../assets/imgs/carros/Fiesta/8.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Fiesta%20Prata%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 90,
+    "nome": "Ford KA",
+    "ano": "2012",
+    "cilindrada": "1.0",
+    "preco": "R$24.000",
+    "combustivel": "Flex",
+    "descricao": "Compacto, econômico e pronto para a cidade — esse é o Ford Ka.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Ford KA/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Ford KA/1.jpeg",
+        "../assets/imgs/carros/Ford KA/2.jpeg",
+        "../assets/imgs/carros/Ford KA/3.jpeg",
+        "../assets/imgs/carros/Ford KA/4.jpeg",
+        "../assets/imgs/carros/Ford KA/5.jpeg",
+        "../assets/imgs/carros/Ford KA/6.jpeg",
+        "../assets/imgs/carros/Ford KA/7.jpeg",
+        "../assets/imgs/carros/Ford KA/8.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Ford%20KA%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 91,
+    "nome": "Fox",
+    "ano": "2010",
+    "cilindrada": "1.0",
+    "preco": "R$42.000",
+    "combustivel": "Flex",
+    "descricao": "Versátil, confortável e pronto para qualquer caminho — esse é o Fox.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Fox/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Fox/1.jpeg",
+        "../assets/imgs/carros/Fox/2.jpeg",
+        "../assets/imgs/carros/Fox/3.jpeg",
+        "../assets/imgs/carros/Fox/4.jpeg",
+        "../assets/imgs/carros/Fox/5.jpeg",
+        "../assets/imgs/carros/Fox/6.jpeg",
+        "../assets/imgs/carros/Fox/7.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Fox%20Preto%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 92,
+    "nome": "Gol",
+    "ano": "2017",
+    "cilindrada": "1.6",
+    "preco": "R$45.000",
+    "combustivel": "Flex",
+    "descricao": "Clássico, confiável e pronto para qualquer jornada — esse é o Gol.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Gol-Confort/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Gol-Confort/1.jpeg",
+        "../assets/imgs/carros/Gol-Confort/2.jpeg",
+        "../assets/imgs/carros/Gol-Confort/3.jpeg",
+        "../assets/imgs/carros/Gol-Confort/4.jpeg",
+        "../assets/imgs/carros/Gol-Confort/5.jpeg",
+        "../assets/imgs/carros/Gol-Confort/6.jpeg",
+        "../assets/imgs/carros/Gol-Confort/7.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Gol%20Confortline%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 93,
+    "nome": "Gol",
+    "ano": "2013",
+    "cilindrada": "1.0",
+    "preco": "R$34.000",
+    "combustivel": "Flex",
+    "descricao": "Clássico, confiável e pronto para qualquer jornada — esse é o Gol.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Gol-g6/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Gol-g6/1.jpeg",
+        "../assets/imgs/carros/Gol-g6/2.jpeg",
+        "../assets/imgs/carros/Gol-g6/3.jpeg",
+        "../assets/imgs/carros/Gol-g6/4.jpeg",
+        "../assets/imgs/carros/Gol-g6/5.jpeg",
+        "../assets/imgs/carros/Gol-g6/6.jpeg",
+        "../assets/imgs/carros/Gol-g6/7.jpeg",
+        "../assets/imgs/carros/Gol-g6/8.jpeg",
+        "../assets/imgs/carros/Gol-g6/9.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Gol%20G6%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 94,
+    "nome": "Meriva",
+    "ano": "2003",
+    "cilindrada": "1.8",
+    "preco": "R$22.000",
+    "combustivel": "Flex",
+    "descricao": "Espaçosa, confortável e versátil para o dia a dia — essa é a Meriva.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Meriva/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Meriva/1.jpeg",
+        "../assets/imgs/carros/Meriva/2.jpeg",
+        "../assets/imgs/carros/Meriva/3.jpeg",
+        "../assets/imgs/carros/Meriva/4.jpeg",
+        "../assets/imgs/carros/Meriva/5.jpeg",
+        "../assets/imgs/carros/Meriva/6.jpeg",
+        "../assets/imgs/carros/Meriva/7.jpeg",
+        "../assets/imgs/carros/Meriva/8.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Meriva%20Disponivel%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 95,
+    "nome": "Peugeot",
+    "ano": "2006",
+    "cilindrada": "1.6",
+    "preco": "R$22.000",
+    "combustivel": "Flex",
+    "descricao": "Sofisticado, moderno e cheio de personalidade — esse é o Peugeot.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Peugeot/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Peugeot/1.jpeg",
+        "../assets/imgs/carros/Peugeot/2.jpeg",
+        "../assets/imgs/carros/Peugeot/3.jpeg",
+        "../assets/imgs/carros/Peugeot/4.jpeg",
+        "../assets/imgs/carros/Peugeot/5.jpeg",
+        "../assets/imgs/carros/Peugeot/6.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Peugeot%20206%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 96,
+    "nome": "S10",
+    "ano": "1999",
+    "cilindrada": "4.3",
+    "preco": "R$45.000",
+    "combustivel": "Gasolina",
+    "descricao": "Potente, robusta e pronta para qualquer estrada — essa é a S10.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/s10/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/s10/1.jpeg",
+        "../assets/imgs/carros/s10/2.jpeg",
+        "../assets/imgs/carros/s10/3.jpeg",
+        "../assets/imgs/carros/s10/4.jpeg",
+        "../assets/imgs/carros/s10/5.jpeg",
+        "../assets/imgs/carros/s10/6.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=S10%20OFFROAD%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 97,
+    "nome": "Uno",
+    "ano": "2009",
+    "cilindrada": "1.0",
+    "preco": "R$22.000",
+    "combustivel": "Flex",
+    "descricao": "Econômico, confiável e pronto para o dia a dia — esse é o Uno.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Uno-Branco/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Uno-Branco/1.jpeg",
+        "../assets/imgs/carros/Uno-Branco/2.jpeg",
+        "../assets/imgs/carros/Uno-Branco/3.jpeg",
+        "../assets/imgs/carros/Uno-Branco/4.jpeg",
+        "../assets/imgs/carros/Uno-Branco/5.jpeg",
+        "../assets/imgs/carros/Uno-Branco/6.jpeg",
+        "../assets/imgs/carros/Uno-Branco/7.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Uno%20Branca%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 98,
+    "nome": "Uno",
+    "ano": "2012",
+    "cilindrada": "1.4",
+    "preco": "R$35.000",
+    "combustivel": "Flex",
+    "descricao": "Econômico, confiável e pronto para o dia a dia — esse é o Uno.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Uno-Prata/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Uno-Prata/1.jpeg",
+        "../assets/imgs/carros/Uno-Prata/2.jpeg",
+        "../assets/imgs/carros/Uno-Prata/3.jpeg",
+        "../assets/imgs/carros/Uno-Prata/4.jpeg",
+        "../assets/imgs/carros/Uno-Prata/5.jpeg",
+        "../assets/imgs/carros/Uno-Prata/6.jpeg",
+        "../assets/imgs/carros/Uno-Prata/7.jpeg",
+        "../assets/imgs/carros/Uno-Prata/8.jpeg",
+        "../assets/imgs/carros/Uno-Prata/9.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Uno%20Prata%2C%20como%20podemos%20negociar%3F"
   }
 ]
