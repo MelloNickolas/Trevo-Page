@@ -208,29 +208,6 @@
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Biz%20Preta%2C%20como%20podemos%20negociar%3F"
   },
   {
-    "id": 86,
-    "nome": "BMW",
-    "ano": "2017",
-    "cilindrada": "2.0",
-    "preco": "R$115.000",
-    "combustivel": "Flex",
-    "descricao": "Elegante, potente e feita para ir além — essa é a BMW.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/BMW/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/BMW/1.jpeg",
-        "../assets/imgs/carros/BMW/2.jpeg",
-        "../assets/imgs/carros/BMW/3.jpeg",
-        "../assets/imgs/carros/BMW/4.jpeg",
-        "../assets/imgs/carros/BMW/5.jpeg",
-        "../assets/imgs/carros/BMW/6.jpeg",
-        "../assets/imgs/carros/BMW/7.jpeg",
-        "../assets/imgs/carros/BMW/8.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=BMW%20Branca%2C%20como%20podemos%20negociar%3F"
-  },
-  {
     "id": 87,
     "nome": "Corolla",
     "ano": "2003",
@@ -250,71 +227,6 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Corolla%20Preta%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 88,
-    "nome": "Falcon",
-    "ano": "2008",
-    "cilindrada": "400cc",
-    "preco": "R$18.000",
-    "combustivel": "Gasolina",
-    "descricao": "Clássico, potente e cheio de personalidade — esse é o Falcon.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Falcon/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Falcon/1.jpeg",
-        "../assets/imgs/carros/Falcon/2.jpeg",
-        "../assets/imgs/carros/Falcon/3.jpeg",
-        "../assets/imgs/carros/Falcon/4.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Moto%20Falcon%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 89,
-    "nome": "Fiesta",
-    "ano": "2013",
-    "cilindrada": "1.0",
-    "preco": "R$33.000",
-    "combustivel": "Flex",
-    "descricao": "Econômico, ágil e pronto para qualquer caminho — esse é o Fiesta.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Fiesta/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Fiesta/1.jpeg",
-        "../assets/imgs/carros/Fiesta/2.jpeg",
-        "../assets/imgs/carros/Fiesta/3.jpeg",
-        "../assets/imgs/carros/Fiesta/4.jpeg",
-        "../assets/imgs/carros/Fiesta/5.jpeg",
-        "../assets/imgs/carros/Fiesta/6.jpeg",
-        "../assets/imgs/carros/Fiesta/7.jpeg",
-        "../assets/imgs/carros/Fiesta/8.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Fiesta%20Prata%2C%20como%20podemos%20negociar%3F"
-  },
-  {
-    "id": 90,
-    "nome": "Ford KA",
-    "ano": "2012",
-    "cilindrada": "1.0",
-    "preco": "R$24.000",
-    "combustivel": "Flex",
-    "descricao": "Compacto, econômico e pronto para a cidade — esse é o Ford Ka.",
-    "imagens": {
-      "foto-inicio": "../assets/imgs/carros/Ford KA/1.jpeg",
-      "galeria": [
-        "../assets/imgs/carros/Ford KA/1.jpeg",
-        "../assets/imgs/carros/Ford KA/2.jpeg",
-        "../assets/imgs/carros/Ford KA/3.jpeg",
-        "../assets/imgs/carros/Ford KA/4.jpeg",
-        "../assets/imgs/carros/Ford KA/5.jpeg",
-        "../assets/imgs/carros/Ford KA/6.jpeg",
-        "../assets/imgs/carros/Ford KA/7.jpeg",
-        "../assets/imgs/carros/Ford KA/8.jpeg"
-      ]
-    },
-    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Ford%20KA%2C%20como%20podemos%20negociar%3F"
   },
   {
     "id": 91,
@@ -494,5 +406,105 @@
       ]
     },
     "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Uno%20Prata%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 99,
+    "nome": "Biz",
+    "ano": "2012",
+    "cilindrada": "125cc",
+    "preco": "R$10.200",
+    "combustivel": "Flex",
+    "descricao": "Econômica, versátil e super popular — essa é a Biz.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Biz/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Biz/1.jpeg",
+        "../assets/imgs/carros/Biz/2.jpeg",
+        "../assets/imgs/carros/Biz/3.jpeg",
+        "../assets/imgs/carros/Biz/4.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Biz%20Bordeaux%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 100,
+    "nome": "CB300",
+    "ano": "2011",
+    "cilindrada": "300cc",
+    "preco": "R$12.500",
+    "combustivel": "Flex",
+    "descricao": "Potente, esportiva e cheia de atitude — essa é a CB 300.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/CB300/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/CB300/1.jpeg",
+        "../assets/imgs/carros/CB300/2.jpeg",
+        "../assets/imgs/carros/CB300/3.jpeg",
+        "../assets/imgs/carros/CB300/4.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=CB%20300%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 101,
+    "nome": "Focus SE",
+    "ano": "2015",
+    "cilindrada": "2.0",
+    "preco": "R$55.000",
+    "combustivel": "Flex",
+    "descricao": "Esportivo, confortável e cheio de personalidade — esse é o Ford Focus.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Focus/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Focus/1.jpeg",
+        "../assets/imgs/carros/Focus/2.jpeg",
+        "../assets/imgs/carros/Focus/3.jpeg",
+        "../assets/imgs/carros/Focus/4.jpeg",
+        "../assets/imgs/carros/Focus/5.jpeg",
+        "../assets/imgs/carros/Focus/6.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Focus%202015%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 102,
+    "nome": "Cruze LTZ",
+    "ano": "2018",
+    "cilindrada": "1.4",
+    "preco": "R$88.000",
+    "combustivel": "Flex",
+    "descricao": "Elegante, confortável e sofisticado — esse é o Chevrolet Cruze.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/Cruze LTZ/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/Cruze LTZ/1.jpeg",
+        "../assets/imgs/carros/Cruze LTZ/2.jpeg",
+        "../assets/imgs/carros/Cruze LTZ/3.jpeg",
+        "../assets/imgs/carros/Cruze LTZ/4.jpeg",
+        "../assets/imgs/carros/Cruze LTZ/5.jpeg",
+        "../assets/imgs/carros/Cruze LTZ/6.jpeg",
+        "../assets/imgs/carros/Cruze LTZ/7.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Cruze%20LTZ%2C%20como%20podemos%20negociar%3F"
+  },
+  {
+    "id": 103,
+    "nome": "XJ",
+    "ano": "2016",
+    "cilindrada": "600cc",
+    "preco": "R$37.000",
+    "combustivel": "Gasolina",
+    "descricao": "Esportiva, potente e cheia de personalidade — essa é a XJ.",
+    "imagens": {
+      "foto-inicio": "../assets/imgs/carros/XJ/1.jpeg",
+      "galeria": [
+        "../assets/imgs/carros/XJ/1.jpeg",
+        "../assets/imgs/carros/XJ/2.jpeg",
+        "../assets/imgs/carros/XJ/3.jpeg",
+        "../assets/imgs/carros/XJ/4.jpeg"
+      ]
+    },
+    "link": "https://wa.me/5514996222492?text=Quero%20comprar%20a%20=Moto%20XJ%2C%20como%20podemos%20negociar%3F"
   }
 ]
